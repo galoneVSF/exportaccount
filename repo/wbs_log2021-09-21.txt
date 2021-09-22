@@ -4020,3 +4020,11 @@ FileNotFoundError: [Errno 2] No such file or directory: 'sync/repo/data.json'
 2021-09-21 22:03:12,414:DEBUG:exec [Loyal].[dbo].[Tp_UpdateCronExport_Details] ?, ?
 2021-09-21 22:03:12,414:DEBUG:(60, 201012)
 2021-09-21 22:03:12,478:DEBUG:Detail Add C:\cron\sync\rAdd.bat - 0
+2021-09-21 22:03:12,584:DEBUG:Detail Commit C:\cron\sync\rCommit.bat - 0
+2021-09-21 22:03:12,584:DEBUG:(60, 201101, '0x6b83df006a3292909d5bdc89fca113b5', '60201101c89fca1')
+2021-09-21 22:03:12,584:DEBUG:exec [Loyal].[dbo].[Tp_ExportDetails_To_Mayor] ?, ?
+2021-09-21 22:03:12,584:DEBUG:(60, 201101)
+2021-09-21 22:03:12,588:DEBUG:sync\repo\60201101c89fca1.csv
+2021-09-21 22:03:12,589:DEBUG:exec [Loyal].[dbo].[Tp_UpdateCronExport_Details] ?, ?
+2021-09-21 22:03:12,589:DEBUG:(60, 201101)
+2021-09-21 22:03:12,659:DEBUG:Detail Add C:\cron\sync\rAdd.bat - 0
