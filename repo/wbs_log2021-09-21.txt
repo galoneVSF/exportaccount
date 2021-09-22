@@ -1855,3 +1855,18 @@ FileNotFoundError: [Errno 2] No such file or directory: 'sync/repo/data.json'
 2021-09-21 21:04:29,767:DEBUG:**********
 2021-09-21 21:04:29,767:DEBUG:END: {'dsn': 'DSN=SQLCRON;UID=crn;PWD=crn', 'debug': 1, 'zip': 0, 'path': 'C:\\cron\\sync\\'}
 2021-09-21 21:04:29,767:DEBUG:____
+2021-09-21 21:04:33,686:DEBUG:__1.0__
+2021-09-21 21:04:33,686:DEBUG:INI: {'dsn': 'DSN=SQLCRON;UID=crn;PWD=crn', 'debug': 1, 'zip': 0, 'path': 'C:\\cron\\sync\\'}
+2021-09-21 21:04:33,687:DEBUG:********************
+2021-09-21 21:04:33,687:DEBUG:BeginCronExport 1.0
+2021-09-21 21:04:33,687:DEBUG:C:\cron\sync\rAdd.bat
+2021-09-21 21:04:33,687:DEBUG:C:\cron\sync\rCommit.bat
+2021-09-21 21:04:33,687:DEBUG:C:\cron\sync\run.bat
+2021-09-21 21:04:33,716:DEBUG:exec [Loyal].[dbo].[Tp_GetCronExport]
+2021-09-21 21:04:33,717:DEBUG:(60, 200807, '0x23259a0a4534fe54bea9e238a89dd5a6', '60200807238a89d')
+2021-09-21 21:04:33,717:DEBUG:exec [Loyal].[dbo].[Tp_ExportDetails_To_Mayor] ?, ?
+2021-09-21 21:04:33,717:DEBUG:(60, 200807)
+2021-09-21 21:04:33,720:DEBUG:sync\repo\60200807238a89d.csv
+2021-09-21 21:04:33,722:DEBUG:exec [Loyal].[dbo].[Tp_UpdateCronExport_Details] ?, ?
+2021-09-21 21:04:33,722:DEBUG:(60, 200807)
+2021-09-21 21:04:33,803:DEBUG:Detail Add C:\cron\sync\rAdd.bat - 0
