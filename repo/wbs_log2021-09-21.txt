@@ -3520,3 +3520,16 @@ FileNotFoundError: [Errno 2] No such file or directory: 'sync/repo/data.json'
 2021-09-21 21:05:14,439:DEBUG:********************
 2021-09-21 21:05:14,439:DEBUG:END: {'dsn': 'DSN=SQLCRON;UID=crn;PWD=crn', 'debug': 1, 'zip': 0, 'path': 'C:\\cron\\sync\\'}
 2021-09-21 21:05:14,439:DEBUG:____
+2021-09-21 22:01:17,147:DEBUG:__1.0__
+2021-09-21 22:01:17,147:DEBUG:INI: {'dsn': 'DSN=SQLCRON;UID=crn;PWD=crn', 'debug': 1, 'zip': 0, 'path': 'C:\\cron\\sync\\'}
+2021-09-21 22:01:17,148:DEBUG:**********
+2021-09-21 22:01:17,148:DEBUG:BeginCronBuild 1.0
+2021-09-21 22:01:17,148:DEBUG:INI: {'dsn': 'DSN=SQLCRON;UID=crn;PWD=crn', 'debug': 1, 'zip': 0, 'path': 'C:\\cron\\sync\\'}
+2021-09-21 22:01:17,178:DEBUG:exec [Loyal].[dbo].[STEP_1_SearchNovedades]
+2021-09-21 22:01:18,204:DEBUG:exec [Loyal].[dbo].[STEP_2_ExtraerNovedadesConDiferencias]
+2021-09-21 22:01:19,270:DEBUG:EndCronBuild
+2021-09-21 22:01:19,270:DEBUG:**********
+2021-09-21 22:01:19,270:DEBUG:END: {'dsn': 'DSN=SQLCRON;UID=crn;PWD=crn', 'debug': 1, 'zip': 0, 'path': 'C:\\cron\\sync\\'}
+2021-09-21 22:01:19,270:DEBUG:____
+2021-09-21 22:02:50,592:DEBUG:__1.0__
+2021-09-21 22:02:50,592:DEBUG:INI: {'dsn': 'DSN=SQLCRON;UID=crn;PWD=crn', 'debug': 1, 'zip': 0, 'path': 'C:\\cron\\sync\\'}
