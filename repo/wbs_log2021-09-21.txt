@@ -2006,3 +2006,18 @@ FileNotFoundError: [Errno 2] No such file or directory: 'sync/repo/data.json'
 2021-09-21 21:04:36,810:DEBUG:exec [Loyal].[dbo].[Tp_UpdateCronExport_Details] ?, ?
 2021-09-21 21:04:36,810:DEBUG:(90, 200903)
 2021-09-21 21:04:36,886:DEBUG:Detail Add C:\cron\sync\rAdd.bat - 0
+2021-09-21 21:04:36,989:DEBUG:Detail Commit C:\cron\sync\rCommit.bat - 0
+2021-09-21 21:04:36,989:DEBUG:(90, 200904, '0x7f3af288705f59c16ec95a086555bfaf', '90200904a086555')
+2021-09-21 21:04:36,989:DEBUG:exec [Loyal].[dbo].[Tp_ExportDetails_To_Mayor] ?, ?
+2021-09-21 21:04:36,989:DEBUG:(90, 200904)
+2021-09-21 21:04:36,992:DEBUG:sync\repo\90200904a086555.csv
+2021-09-21 21:04:36,993:DEBUG:exec [Loyal].[dbo].[Tp_UpdateCronExport_Details] ?, ?
+2021-09-21 21:04:36,993:DEBUG:(90, 200904)
+2021-09-21 21:04:37,070:DEBUG:Detail Add C:\cron\sync\rAdd.bat - 0
+2021-09-21 21:04:37,174:DEBUG:Detail Commit C:\cron\sync\rCommit.bat - 0
+2021-09-21 21:04:37,174:DEBUG:(60, 200904, '0x7f3af288705f59c16ec95a086555bfaf', '60200904a086555')
+2021-09-21 21:04:37,174:DEBUG:exec [Loyal].[dbo].[Tp_ExportDetails_To_Mayor] ?, ?
+2021-09-21 21:04:37,174:DEBUG:(60, 200904)
+2021-09-21 21:04:37,195:DEBUG:sync\repo\60200904a086555.csv
+2021-09-21 21:04:37,212:DEBUG:exec [Loyal].[dbo].[Tp_UpdateCronExport_Details] ?, ?
+2021-09-21 21:04:37,212:DEBUG:(60, 200904)
