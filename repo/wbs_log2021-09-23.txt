@@ -472,3 +472,11 @@
 2021-09-23 18:41:52,003:DEBUG:exec [Loyal].[dbo].[Tp_UpdateCronExport_Details] ?, ?
 2021-09-23 18:41:52,003:DEBUG:(60, 201011)
 2021-09-23 18:41:52,063:DEBUG:Detail Add C:\cron\sync\rAdd.bat - 0
+2021-09-23 18:41:52,150:DEBUG:Detail Commit C:\cron\sync\rCommit.bat - 0
+2021-09-23 18:41:52,150:DEBUG:(90, 201011, '0x06adaca5825bc7c763ce8785e1bbe3bf', '90201011785e1bb')
+2021-09-23 18:41:52,150:DEBUG:exec [Loyal].[dbo].[Tp_ExportDetails_To_Mayor] ?, ?
+2021-09-23 18:41:52,150:DEBUG:(90, 201011)
+2021-09-23 18:41:52,153:DEBUG:sync\repo\90201011785e1bb.csv
+2021-09-23 18:41:52,154:DEBUG:exec [Loyal].[dbo].[Tp_UpdateCronExport_Details] ?, ?
+2021-09-23 18:41:52,154:DEBUG:(90, 201011)
+2021-09-23 18:41:52,211:DEBUG:Detail Add C:\cron\sync\rAdd.bat - 0
