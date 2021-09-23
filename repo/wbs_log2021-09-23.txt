@@ -1928,3 +1928,11 @@ pyodbc.OperationalError: ('08004', "[08004] [Microsoft][SQL Server Native Client
 2021-09-23 19:15:08,590:DEBUG:exec [Loyal].[dbo].[Tp_UpdateCronExport_Details] ?, ?
 2021-09-23 19:15:08,590:DEBUG:(600, 202001)
 2021-09-23 19:15:08,652:DEBUG:Detail Add C:\cron\sync\rAdd.bat - 0
+2021-09-23 19:15:08,754:DEBUG:Detail Commit C:\cron\sync\rCommit.bat - 0
+2021-09-23 19:15:08,754:DEBUG:(600, 202002, '0xe205ad4c20c88428748ee1bbaca9aa49', '6002020021bbaca9')
+2021-09-23 19:15:08,754:DEBUG:exec [Loyal].[dbo].[Tp_ExportDetails_To_Mayor] ?, ?
+2021-09-23 19:15:08,754:DEBUG:(600, 202002)
+2021-09-23 19:15:08,772:DEBUG:sync\repo\6002020021bbaca9.csv
+2021-09-23 19:15:08,781:DEBUG:exec [Loyal].[dbo].[Tp_UpdateCronExport_Details] ?, ?
+2021-09-23 19:15:08,781:DEBUG:(600, 202002)
+2021-09-23 19:15:08,847:DEBUG:Detail Add C:\cron\sync\rAdd.bat - 0
