@@ -728,3 +728,16 @@ pyodbc.OperationalError: ('08004', "[08004] [Microsoft][SQL Server Native Client
 2021-09-23 19:14:33,434:DEBUG:exec [Loyal].[dbo].[Tp_UpdateCronExport_Details] ?, ?
 2021-09-23 19:14:33,434:DEBUG:(90, 200912)
 2021-09-23 19:14:33,514:DEBUG:Detail Add C:\cron\sync\rAdd.bat - 0
+2021-09-23 19:14:33,602:DEBUG:Detail Commit C:\cron\sync\rCommit.bat - 0
+2021-09-23 19:14:33,602:DEBUG:(60, 200912, '0xfde705c2d12010c68e07b4182bb703d2', '602009124182bb7')
+2021-09-23 19:14:33,602:DEBUG:exec [Loyal].[dbo].[Tp_ExportDetails_To_Mayor] ?, ?
+2021-09-23 19:14:33,602:DEBUG:(60, 200912)
+2021-09-23 19:14:33,623:DEBUG:sync\repo\602009124182bb7.csv
+2021-09-23 19:14:33,634:DEBUG:exec [Loyal].[dbo].[Tp_UpdateCronExport_Details] ?, ?
+2021-09-23 19:14:33,634:DEBUG:(60, 200912)
+2021-09-23 19:14:33,709:DEBUG:Detail Add C:\cron\sync\rAdd.bat - 0
+2021-09-23 19:14:33,816:DEBUG:Detail Commit C:\cron\sync\rCommit.bat - 0
+2021-09-23 19:14:33,816:DEBUG:(60, 201001, '0x43d3f9b155d46acfc16d01e754124fab', '602010011e75412')
+2021-09-23 19:14:33,816:DEBUG:exec [Loyal].[dbo].[Tp_ExportDetails_To_Mayor] ?, ?
+2021-09-23 19:14:33,816:DEBUG:(60, 201001)
+2021-09-23 19:14:33,839:DEBUG:sync\repo\602010011e75412.csv
