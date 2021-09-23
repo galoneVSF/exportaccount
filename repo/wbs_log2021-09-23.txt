@@ -1591,3 +1591,4 @@
 2021-09-23 18:42:19,986:DEBUG:sync\repo\700202101bd95e3b.csv
 2021-09-23 18:42:19,988:DEBUG:exec [Loyal].[dbo].[Tp_UpdateCronExport_Details] ?, ?
 2021-09-23 18:42:19,989:DEBUG:(700, 202101)
+2021-09-23 18:42:20,069:DEBUG:Detail Add C:\cron\sync\rAdd.bat - 0
