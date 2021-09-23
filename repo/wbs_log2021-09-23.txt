@@ -888,3 +888,18 @@
 2021-09-23 18:42:04,455:DEBUG:exec [Loyal].[dbo].[Tp_UpdateCronExport_Details] ?, ?
 2021-09-23 18:42:04,456:DEBUG:(72, 201310)
 2021-09-23 18:42:04,588:DEBUG:Detail Add C:\cron\sync\rAdd.bat - 0
+2021-09-23 18:42:04,687:DEBUG:Detail Commit C:\cron\sync\rCommit.bat - 0
+2021-09-23 18:42:04,688:DEBUG:(72, 201311, '0x2404faac76caa8856c9706fea6fed1fc', '722013116fea6fe')
+2021-09-23 18:42:04,688:DEBUG:exec [Loyal].[dbo].[Tp_ExportDetails_To_Mayor] ?, ?
+2021-09-23 18:42:04,688:DEBUG:(72, 201311)
+2021-09-23 18:42:04,691:DEBUG:sync\repo\722013116fea6fe.csv
+2021-09-23 18:42:04,692:DEBUG:exec [Loyal].[dbo].[Tp_UpdateCronExport_Details] ?, ?
+2021-09-23 18:42:04,692:DEBUG:(72, 201311)
+2021-09-23 18:42:04,758:DEBUG:Detail Add C:\cron\sync\rAdd.bat - 0
+2021-09-23 18:42:04,859:DEBUG:Detail Commit C:\cron\sync\rCommit.bat - 0
+2021-09-23 18:42:04,860:DEBUG:(72, 201312, '0x27e1f1bcc8d7309d0071fee3de8614ed', '72201312ee3de86')
+2021-09-23 18:42:04,860:DEBUG:exec [Loyal].[dbo].[Tp_ExportDetails_To_Mayor] ?, ?
+2021-09-23 18:42:04,860:DEBUG:(72, 201312)
+2021-09-23 18:42:04,862:DEBUG:sync\repo\72201312ee3de86.csv
+2021-09-23 18:42:04,863:DEBUG:exec [Loyal].[dbo].[Tp_UpdateCronExport_Details] ?, ?
+2021-09-23 18:42:04,863:DEBUG:(72, 201312)
