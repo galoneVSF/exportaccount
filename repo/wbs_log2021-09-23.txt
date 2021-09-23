@@ -1567,3 +1567,11 @@
 2021-09-23 18:42:19,458:DEBUG:sync\repo\700202010317e658.csv
 2021-09-23 18:42:19,459:DEBUG:exec [Loyal].[dbo].[Tp_UpdateCronExport_Details] ?, ?
 2021-09-23 18:42:19,459:DEBUG:(700, 202010)
+2021-09-23 18:42:19,518:DEBUG:Detail Add C:\cron\sync\rAdd.bat - 0
+2021-09-23 18:42:19,620:DEBUG:Detail Commit C:\cron\sync\rCommit.bat - 0
+2021-09-23 18:42:19,620:DEBUG:(700, 202011, '0xb9981dac50998c46b04b24ca6b329e77', '7002020114ca6b32')
+2021-09-23 18:42:19,620:DEBUG:exec [Loyal].[dbo].[Tp_ExportDetails_To_Mayor] ?, ?
+2021-09-23 18:42:19,620:DEBUG:(700, 202011)
+2021-09-23 18:42:19,623:DEBUG:sync\repo\7002020114ca6b32.csv
+2021-09-23 18:42:19,624:DEBUG:exec [Loyal].[dbo].[Tp_UpdateCronExport_Details] ?, ?
+2021-09-23 18:42:19,624:DEBUG:(700, 202011)
