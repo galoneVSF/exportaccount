@@ -1,0 +1,3 @@
+CODUSUARIO,PERIODO,CODCUENTA,CODCENTCOS,TABSUBCUEN,CODSUBCUEN,TABINCISO,CODINCISO,FECHCONTA,NROCONTA,NROPROVIS,LEYENDA,NROCHEQUE,NROCENTEMI,NROCOMPROB,DEBE,HABER,CODACTIVID,CODPRODUCT,NOMCUENTA,NOMSUBCUEN,NOMINCISO
+800,202111,2050,1,2050    ,3678,        ,0,2021-11-12,0,1,BOERO M FC 22            ,          ,0,0,129166.40,0.00,0                             ,0                             ,PROVEEDORES                   ,BOERO MARTIN                  ,                              
+800,202111,1020,1,1020    ,1,        ,0,2021-11-12,0,1,BOERO M FC 22            ,579       ,0,0,0.00,129166.40,0                             ,0                             ,BANCOS                        ,BANCO DE GALICIA              ,                              
