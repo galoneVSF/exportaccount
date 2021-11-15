@@ -1,0 +1,3 @@
+CODUSUARIO,PERIODO,CODCUENTA,CODCENTCOS,TABSUBCUEN,CODSUBCUEN,TABINCISO,CODINCISO,FECHCONTA,NROCONTA,NROPROVIS,LEYENDA,NROCHEQUE,NROCENTEMI,NROCOMPROB,DEBE,HABER,CODACTIVID,CODPRODUCT,NOMCUENTA,NOMSUBCUEN,NOMINCISO
+800,202112,6901,1,6901    ,2,        ,0,2021-12-15,0,1,AFSA VAC AFTOSA          ,          ,0,0,205988.00,0.00,0                             ,0                             ,SANIDAD GANADERIA             ,HONORARIOS VETERINARIOS       ,                              
+800,202112,1020,1,1020    ,1,        ,0,2021-12-15,0,1,AFSA VAC AFTOSA          ,0514      ,0,0,0.00,205988.00,0                             ,0                             ,BANCOS                        ,BANCO DE GALICIA              ,                              
