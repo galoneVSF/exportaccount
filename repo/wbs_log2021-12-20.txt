@@ -135,3 +135,31 @@
 2021-12-20 11:00:01,807:DEBUG:exec [Loyal_700].[dbo].[Tp_exportReportMayor] ?, ?
 2021-12-20 11:00:01,808:DEBUG:(700, 202105)
 2021-12-20 11:00:01,919:DEBUG:Detail Add C:\cron\sync\rAdd.bat - 0
+2021-12-20 11:00:02,027:DEBUG:exec [Loyal_800].[dbo].[Tp_exportReportMayor] ?, ?
+2021-12-20 11:00:02,027:DEBUG:(800, 202107)
+2021-12-20 11:00:02,135:DEBUG:Detail Commit C:\cron\sync\rCommit.bat - 0
+2021-12-20 11:00:02,135:DEBUG:(700, 202101, '0x69ee8d9de3a52d254953ebd95e3b2de5', '700202101bd95e3b')
+2021-12-20 11:00:02,135:DEBUG:exec [Loyal].[dbo].[Tp_ExportDetails_To_Mayor] ?, ?
+2021-12-20 11:00:02,135:DEBUG:(700, 202101)
+2021-12-20 11:00:02,197:DEBUG:exec [Loyal_800].[dbo].[Tp_exportReportMayor] ?, ?
+2021-12-20 11:00:02,197:DEBUG:(800, 202108)
+2021-12-20 11:00:02,235:DEBUG:sync\repo\700202101bd95e3b.csv
+2021-12-20 11:00:02,250:DEBUG:exec [Loyal_800].[dbo].[Tp_exportReportMayor] ?, ?
+2021-12-20 11:00:02,250:DEBUG:(800, 202109)
+2021-12-20 11:00:02,264:DEBUG:exec [Loyal].[dbo].[Tp_UpdateCronExport_Details] ?, ?
+2021-12-20 11:00:02,265:DEBUG:(700, 202101)
+2021-12-20 11:00:02,302:DEBUG:exec [Loyal_800].[dbo].[Tp_exportReportMayor] ?, ?
+2021-12-20 11:00:02,303:DEBUG:(800, 202110)
+2021-12-20 11:00:02,350:DEBUG:Detail Add C:\cron\sync\rAdd.bat - 0
+2021-12-20 11:00:02,355:DEBUG:exec [Loyal_800].[dbo].[Tp_exportReportMayor] ?, ?
+2021-12-20 11:00:02,355:DEBUG:(800, 202111)
+2021-12-20 11:00:02,405:DEBUG:exec [Loyal_800].[dbo].[Tp_exportReportMayor] ?, ?
+2021-12-20 11:00:02,406:DEBUG:(800, 202112)
+2021-12-20 11:00:02,450:DEBUG:EndCronBuild
+2021-12-20 11:00:02,450:DEBUG:**********
+2021-12-20 11:00:02,450:DEBUG:END: {'dsn': 'DSN=SQLCRON;UID=crn;PWD=crn', 'debug': 1, 'zip': 0, 'git': 1, 'path': 'C:\\cron\\sync\\'}
+2021-12-20 11:00:02,450:DEBUG:____
+2021-12-20 11:00:02,508:DEBUG:Detail Commit C:\cron\sync\rCommit.bat - 0
+2021-12-20 11:00:02,508:DEBUG:(700, 202103, '0x6f8a6d0606591c0f7b0c8374233470a9', '7002021033742334')
+2021-12-20 11:00:02,508:DEBUG:exec [Loyal].[dbo].[Tp_ExportDetails_To_Mayor] ?, ?
+2021-12-20 11:00:02,508:DEBUG:(700, 202103)
