@@ -1,0 +1,33 @@
+2021-12-28 08:00:03,085:DEBUG:__1.1__
+2021-12-28 08:00:03,085:DEBUG:INI: {'dsn': 'DSN=SQLCRON;UID=crn;PWD=crn', 'debug': 1, 'zip': 0, 'git': 1, 'path': 'C:\\cron\\sync\\'}
+2021-12-28 08:00:03,085:DEBUG:**********
+2021-12-28 08:00:03,085:DEBUG:BeginCronBuild 1.2
+2021-12-28 08:00:03,085:DEBUG:INI: {'dsn': 'DSN=SQLCRON;UID=crn;PWD=crn', 'debug': 1, 'zip': 0, 'git': 1, 'path': 'C:\\cron\\sync\\'}
+2021-12-28 08:00:03,257:DEBUG:exec [Loyal].[dbo].[STEP_1_SearchNovedades]
+2021-12-28 08:00:03,273:DEBUG:exec [Loyal].[dbo].[STEP_2_ExtraerNovedadesConDiferencias]
+2021-12-28 08:00:03,288:DEBUG:EndCronBuild
+2021-12-28 08:00:03,288:DEBUG:**********
+2021-12-28 08:00:03,288:DEBUG:END: {'dsn': 'DSN=SQLCRON;UID=crn;PWD=crn', 'debug': 1, 'zip': 0, 'git': 1, 'path': 'C:\\cron\\sync\\'}
+2021-12-28 08:00:03,288:DEBUG:____
+2021-12-28 09:00:02,142:DEBUG:__1.1__
+2021-12-28 09:00:02,142:DEBUG:INI: {'dsn': 'DSN=SQLCRON;UID=crn;PWD=crn', 'debug': 1, 'zip': 0, 'git': 1, 'path': 'C:\\cron\\sync\\'}
+2021-12-28 09:00:02,142:DEBUG:**********
+2021-12-28 09:00:02,142:DEBUG:BeginCronBuild 1.2
+2021-12-28 09:00:02,142:DEBUG:INI: {'dsn': 'DSN=SQLCRON;UID=crn;PWD=crn', 'debug': 1, 'zip': 0, 'git': 1, 'path': 'C:\\cron\\sync\\'}
+2021-12-28 09:00:02,158:DEBUG:exec [Loyal].[dbo].[STEP_1_SearchNovedades]
+2021-12-28 09:00:02,173:DEBUG:exec [Loyal].[dbo].[STEP_2_ExtraerNovedadesConDiferencias]
+2021-12-28 09:00:02,173:DEBUG:EndCronBuild
+2021-12-28 09:00:02,173:DEBUG:**********
+2021-12-28 09:00:02,173:DEBUG:END: {'dsn': 'DSN=SQLCRON;UID=crn;PWD=crn', 'debug': 1, 'zip': 0, 'git': 1, 'path': 'C:\\cron\\sync\\'}
+2021-12-28 09:00:02,173:DEBUG:____
+2021-12-28 10:00:02,133:DEBUG:__1.1__
+2021-12-28 10:00:02,133:DEBUG:INI: {'dsn': 'DSN=SQLCRON;UID=crn;PWD=crn', 'debug': 1, 'zip': 0, 'git': 1, 'path': 'C:\\cron\\sync\\'}
+2021-12-28 10:00:02,133:DEBUG:**********
+2021-12-28 10:00:02,133:DEBUG:BeginCronBuild 1.2
+2021-12-28 10:00:02,133:DEBUG:INI: {'dsn': 'DSN=SQLCRON;UID=crn;PWD=crn', 'debug': 1, 'zip': 0, 'git': 1, 'path': 'C:\\cron\\sync\\'}
+2021-12-28 10:00:02,148:DEBUG:exec [Loyal].[dbo].[STEP_1_SearchNovedades]
+2021-12-28 10:00:02,164:DEBUG:exec [Loyal].[dbo].[STEP_2_ExtraerNovedadesConDiferencias]
+2021-12-28 10:00:02,164:DEBUG:EndCronBuild
+2021-12-28 10:00:02,164:DEBUG:**********
+2021-12-28 10:00:02,164:DEBUG:END: {'dsn': 'DSN=SQLCRON;UID=crn;PWD=crn', 'debug': 1, 'zip': 0, 'git': 1, 'path': 'C:\\cron\\sync\\'}
+2021-12-28 10:00:02,164:DEBUG:____
