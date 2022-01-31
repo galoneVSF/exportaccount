@@ -1,0 +1,33 @@
+2022-01-31 10:00:02,670:DEBUG:__1.1__
+2022-01-31 10:00:02,671:DEBUG:INI: {'dsn': 'DSN=SQLCRON;UID=crn;PWD=crn', 'debug': 1, 'zip': 0, 'git': 1, 'path': 'C:\\cron\\sync\\'}
+2022-01-31 10:00:02,671:DEBUG:**********
+2022-01-31 10:00:02,671:DEBUG:BeginCronBuild 1.2
+2022-01-31 10:00:02,672:DEBUG:INI: {'dsn': 'DSN=SQLCRON;UID=crn;PWD=crn', 'debug': 1, 'zip': 0, 'git': 1, 'path': 'C:\\cron\\sync\\'}
+2022-01-31 10:00:02,844:DEBUG:exec [Loyal].[dbo].[STEP_1_SearchNovedades]
+2022-01-31 10:00:04,115:DEBUG:exec [Loyal].[dbo].[STEP_2_ExtraerNovedadesConDiferencias]
+2022-01-31 10:00:04,121:DEBUG:exec [Loyal_700].[dbo].[Tp_exportReportMayor] ?, ?
+2022-01-31 10:00:04,121:DEBUG:(700, 202010)
+2022-01-31 10:00:04,314:DEBUG:exec [Loyal_700].[dbo].[Tp_exportReportMayor] ?, ?
+2022-01-31 10:00:04,314:DEBUG:(700, 202012)
+2022-01-31 10:00:04,370:DEBUG:exec [Loyal_700].[dbo].[Tp_exportReportMayor] ?, ?
+2022-01-31 10:00:04,371:DEBUG:(700, 202101)
+2022-01-31 10:00:04,422:DEBUG:exec [Loyal_700].[dbo].[Tp_exportReportMayor] ?, ?
+2022-01-31 10:00:04,422:DEBUG:(700, 202103)
+2022-01-31 10:00:04,474:DEBUG:exec [Loyal_700].[dbo].[Tp_exportReportMayor] ?, ?
+2022-01-31 10:00:04,474:DEBUG:(700, 202105)
+2022-01-31 10:00:04,530:DEBUG:exec [Loyal_800].[dbo].[Tp_exportReportMayor] ?, ?
+2022-01-31 10:00:04,530:DEBUG:(800, 202107)
+2022-01-31 10:00:04,783:DEBUG:exec [Loyal_800].[dbo].[Tp_exportReportMayor] ?, ?
+2022-01-31 10:00:04,783:DEBUG:(800, 202108)
+2022-01-31 10:00:04,834:DEBUG:exec [Loyal_800].[dbo].[Tp_exportReportMayor] ?, ?
+2022-01-31 10:00:04,835:DEBUG:(800, 202109)
+2022-01-31 10:00:04,880:DEBUG:exec [Loyal_800].[dbo].[Tp_exportReportMayor] ?, ?
+2022-01-31 10:00:04,880:DEBUG:(800, 202110)
+2022-01-31 10:00:04,926:DEBUG:exec [Loyal_800].[dbo].[Tp_exportReportMayor] ?, ?
+2022-01-31 10:00:04,926:DEBUG:(800, 202111)
+2022-01-31 10:00:04,971:DEBUG:exec [Loyal_800].[dbo].[Tp_exportReportMayor] ?, ?
+2022-01-31 10:00:04,971:DEBUG:(800, 202112)
+2022-01-31 10:00:05,014:DEBUG:EndCronBuild
+2022-01-31 10:00:05,014:DEBUG:**********
+2022-01-31 10:00:05,014:DEBUG:END: {'dsn': 'DSN=SQLCRON;UID=crn;PWD=crn', 'debug': 1, 'zip': 0, 'git': 1, 'path': 'C:\\cron\\sync\\'}
+2022-01-31 10:00:05,014:DEBUG:____
