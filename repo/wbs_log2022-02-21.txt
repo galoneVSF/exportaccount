@@ -1,0 +1,37 @@
+2022-02-21 10:00:02,486:DEBUG:__1.1__
+2022-02-21 10:00:02,501:DEBUG:INI: {'dsn': 'DSN=SQLCRON;UID=crn;PWD=crn', 'debug': 1, 'zip': 0, 'git': 1, 'path': 'C:\\cron\\sync\\'}
+2022-02-21 10:00:02,501:DEBUG:**********
+2022-02-21 10:00:02,501:DEBUG:BeginCronBuild 1.2
+2022-02-21 10:00:02,501:DEBUG:INI: {'dsn': 'DSN=SQLCRON;UID=crn;PWD=crn', 'debug': 1, 'zip': 0, 'git': 1, 'path': 'C:\\cron\\sync\\'}
+2022-02-21 10:00:02,704:DEBUG:exec [Loyal].[dbo].[STEP_1_SearchNovedades]
+2022-02-21 10:00:03,985:DEBUG:exec [Loyal].[dbo].[STEP_2_ExtraerNovedadesConDiferencias]
+2022-02-21 10:00:03,985:DEBUG:exec [Loyal_700].[dbo].[Tp_exportReportMayor] ?, ?
+2022-02-21 10:00:03,985:DEBUG:(700, 202010)
+2022-02-21 10:00:04,157:DEBUG:exec [Loyal_700].[dbo].[Tp_exportReportMayor] ?, ?
+2022-02-21 10:00:04,157:DEBUG:(700, 202012)
+2022-02-21 10:00:04,219:DEBUG:exec [Loyal_700].[dbo].[Tp_exportReportMayor] ?, ?
+2022-02-21 10:00:04,219:DEBUG:(700, 202101)
+2022-02-21 10:00:04,266:DEBUG:exec [Loyal_700].[dbo].[Tp_exportReportMayor] ?, ?
+2022-02-21 10:00:04,266:DEBUG:(700, 202103)
+2022-02-21 10:00:04,313:DEBUG:exec [Loyal_700].[dbo].[Tp_exportReportMayor] ?, ?
+2022-02-21 10:00:04,313:DEBUG:(700, 202105)
+2022-02-21 10:00:04,376:DEBUG:exec [Loyal_800].[dbo].[Tp_exportReportMayor] ?, ?
+2022-02-21 10:00:04,376:DEBUG:(800, 202107)
+2022-02-21 10:00:04,563:DEBUG:exec [Loyal_800].[dbo].[Tp_exportReportMayor] ?, ?
+2022-02-21 10:00:04,563:DEBUG:(800, 202108)
+2022-02-21 10:00:04,610:DEBUG:exec [Loyal_800].[dbo].[Tp_exportReportMayor] ?, ?
+2022-02-21 10:00:04,610:DEBUG:(800, 202109)
+2022-02-21 10:00:04,657:DEBUG:exec [Loyal_800].[dbo].[Tp_exportReportMayor] ?, ?
+2022-02-21 10:00:04,657:DEBUG:(800, 202110)
+2022-02-21 10:00:04,704:DEBUG:exec [Loyal_800].[dbo].[Tp_exportReportMayor] ?, ?
+2022-02-21 10:00:04,704:DEBUG:(800, 202111)
+2022-02-21 10:00:04,751:DEBUG:exec [Loyal_800].[dbo].[Tp_exportReportMayor] ?, ?
+2022-02-21 10:00:04,751:DEBUG:(800, 202112)
+2022-02-21 10:00:04,797:DEBUG:exec [Loyal_800].[dbo].[Tp_exportReportMayor] ?, ?
+2022-02-21 10:00:04,797:DEBUG:(800, 202201)
+2022-02-21 10:00:04,829:DEBUG:exec [Loyal_800].[dbo].[Tp_exportReportMayor] ?, ?
+2022-02-21 10:00:04,829:DEBUG:(800, 202202)
+2022-02-21 10:00:04,876:DEBUG:EndCronBuild
+2022-02-21 10:00:04,876:DEBUG:**********
+2022-02-21 10:00:04,876:DEBUG:END: {'dsn': 'DSN=SQLCRON;UID=crn;PWD=crn', 'debug': 1, 'zip': 0, 'git': 1, 'path': 'C:\\cron\\sync\\'}
+2022-02-21 10:00:04,876:DEBUG:____
