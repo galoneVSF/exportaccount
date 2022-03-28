@@ -110,3 +110,4 @@
 2022-03-28 11:00:03,342:DEBUG:sync\repo\700202101bd95e3b.csv
 2022-03-28 11:00:03,352:DEBUG:exec [Loyal].[dbo].[Tp_UpdateCronExport_Details] ?, ?
 2022-03-28 11:00:03,352:DEBUG:(700, 202101)
+2022-03-28 11:00:03,416:DEBUG:Detail Add C:\cron\sync\rAdd.bat - 0
