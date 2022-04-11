@@ -248,3 +248,6 @@
 2022-04-11 11:00:02,747:DEBUG:exec [Loyal].[dbo].[Tp_ExportDetails_To_Mayor] ?, ?
 2022-04-11 11:00:02,747:DEBUG:(800, 202111)
 2022-04-11 11:00:02,767:DEBUG:sync\repo\8002021119b02c1a.csv
+2022-04-11 11:00:02,777:DEBUG:exec [Loyal].[dbo].[Tp_UpdateCronExport_Details] ?, ?
+2022-04-11 11:00:02,777:DEBUG:(800, 202111)
+2022-04-11 11:00:02,817:DEBUG:Detail Add C:\cron\sync\rAdd.bat - 0
