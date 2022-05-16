@@ -115,3 +115,7 @@
 2022-05-16 11:00:02,572:DEBUG:(700, 202101, '0x69ee8d9de3a52d254953ebd95e3b2de5', '700202101bd95e3b')
 2022-05-16 11:00:02,572:DEBUG:exec [Loyal].[dbo].[Tp_ExportDetails_To_Mayor] ?, ?
 2022-05-16 11:00:02,572:DEBUG:(700, 202101)
+2022-05-16 11:00:02,589:DEBUG:sync\repo\700202101bd95e3b.csv
+2022-05-16 11:00:02,597:DEBUG:exec [Loyal].[dbo].[Tp_UpdateCronExport_Details] ?, ?
+2022-05-16 11:00:02,597:DEBUG:(700, 202101)
+2022-05-16 11:00:02,651:DEBUG:Detail Add C:\cron\sync\rAdd.bat - 0
