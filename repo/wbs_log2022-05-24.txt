@@ -1,0 +1,30 @@
+2022-05-24 10:00:02,661:DEBUG:__1.1__
+2022-05-24 10:00:02,661:DEBUG:INI: {'dsn': 'DSN=SQLCRON;UID=crn;PWD=crn', 'debug': 1, 'zip': 0, 'git': 1, 'path': 'C:\\cron\\sync\\'}
+2022-05-24 10:00:02,677:DEBUG:**********
+2022-05-24 10:00:02,677:DEBUG:BeginCronBuild 1.2
+2022-05-24 10:00:02,677:DEBUG:INI: {'dsn': 'DSN=SQLCRON;UID=crn;PWD=crn', 'debug': 1, 'zip': 0, 'git': 1, 'path': 'C:\\cron\\sync\\'}
+2022-05-24 10:00:02,771:DEBUG:exec [Loyal].[dbo].[STEP_1_SearchNovedades]
+2022-05-24 10:00:02,771:DEBUG:exec [Loyal].[dbo].[STEP_2_ExtraerNovedadesConDiferencias]
+2022-05-24 10:00:02,786:DEBUG:EndCronBuild
+2022-05-24 10:00:02,786:DEBUG:**********
+2022-05-24 10:00:02,786:DEBUG:END: {'dsn': 'DSN=SQLCRON;UID=crn;PWD=crn', 'debug': 1, 'zip': 0, 'git': 1, 'path': 'C:\\cron\\sync\\'}
+2022-05-24 10:00:02,786:DEBUG:____
+2022-05-24 11:00:01,765:DEBUG:__1.1__
+2022-05-24 11:00:01,765:DEBUG:INI: {'dsn': 'DSN=SQLCRON;UID=crn;PWD=crn', 'debug': 1, 'zip': 0, 'git': 1, 'path': 'C:\\cron\\sync\\'}
+2022-05-24 11:00:01,765:DEBUG:INI: {'dsn': 'DSN=SQLCRON;UID=crn;PWD=crn', 'debug': 1, 'zip': 0, 'git': 1, 'path': 'C:\\cron\\sync\\'}
+2022-05-24 11:00:01,766:DEBUG:********************
+2022-05-24 11:00:01,766:DEBUG:**********
+2022-05-24 11:00:01,766:DEBUG:BeginCronExport 1.1
+2022-05-24 11:00:01,766:DEBUG:BeginCronBuild 1.2
+2022-05-24 11:00:01,766:DEBUG:C:\cron\sync\rAdd.bat
+2022-05-24 11:00:01,766:DEBUG:INI: {'dsn': 'DSN=SQLCRON;UID=crn;PWD=crn', 'debug': 1, 'zip': 0, 'git': 1, 'path': 'C:\\cron\\sync\\'}
+2022-05-24 11:00:01,766:DEBUG:C:\cron\sync\rCommit.bat
+2022-05-24 11:00:01,766:DEBUG:C:\cron\sync\run.bat
+2022-05-24 11:00:01,831:DEBUG:exec [Loyal].[dbo].[STEP_1_SearchNovedades]
+2022-05-24 11:00:01,831:DEBUG:exec [Loyal].[dbo].[Tp_GetCronExport]
+2022-05-24 11:00:01,832:DEBUG:exec [Loyal].[dbo].[Tp_JSONCronExport]
+2022-05-24 11:00:01,835:DEBUG:exec [Loyal].[dbo].[STEP_2_ExtraerNovedadesConDiferencias]
+2022-05-24 11:00:01,836:DEBUG:EndCronBuild
+2022-05-24 11:00:01,836:DEBUG:**********
+2022-05-24 11:00:01,836:DEBUG:END: {'dsn': 'DSN=SQLCRON;UID=crn;PWD=crn', 'debug': 1, 'zip': 0, 'git': 1, 'path': 'C:\\cron\\sync\\'}
+2022-05-24 11:00:01,836:DEBUG:____
