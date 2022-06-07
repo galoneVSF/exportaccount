@@ -1,0 +1,11 @@
+2022-06-07 10:00:02,739:DEBUG:__1.1__
+2022-06-07 10:00:02,739:DEBUG:INI: {'dsn': 'DSN=SQLCRON;UID=crn;PWD=crn', 'debug': 1, 'zip': 0, 'git': 1, 'path': 'C:\\cron\\sync\\'}
+2022-06-07 10:00:02,740:DEBUG:**********
+2022-06-07 10:00:02,740:DEBUG:BeginCronBuild 1.2
+2022-06-07 10:00:02,740:DEBUG:INI: {'dsn': 'DSN=SQLCRON;UID=crn;PWD=crn', 'debug': 1, 'zip': 0, 'git': 1, 'path': 'C:\\cron\\sync\\'}
+2022-06-07 10:00:02,815:DEBUG:exec [Loyal].[dbo].[STEP_1_SearchNovedades]
+2022-06-07 10:00:02,823:DEBUG:exec [Loyal].[dbo].[STEP_2_ExtraerNovedadesConDiferencias]
+2022-06-07 10:00:02,828:DEBUG:EndCronBuild
+2022-06-07 10:00:02,828:DEBUG:**********
+2022-06-07 10:00:02,828:DEBUG:END: {'dsn': 'DSN=SQLCRON;UID=crn;PWD=crn', 'debug': 1, 'zip': 0, 'git': 1, 'path': 'C:\\cron\\sync\\'}
+2022-06-07 10:00:02,828:DEBUG:____
