@@ -175,3 +175,33 @@
 2022-06-27 11:00:02,545:DEBUG:exec [Loyal_700].[dbo].[Tp_exportReportMayor] ?, ?
 2022-06-27 11:00:02,545:DEBUG:(700, 202101)
 2022-06-27 11:00:02,701:DEBUG:Detail Add C:\cron\sync\rAdd.bat - 0
+2022-06-27 11:00:02,764:DEBUG:exec [Loyal_700].[dbo].[Tp_exportReportMayor] ?, ?
+2022-06-27 11:00:02,764:DEBUG:(700, 202103)
+2022-06-27 11:00:02,811:DEBUG:exec [Loyal_700].[dbo].[Tp_exportReportMayor] ?, ?
+2022-06-27 11:00:02,826:DEBUG:(700, 202105)
+2022-06-27 11:00:02,889:DEBUG:exec [Loyal_700].[dbo].[Tp_exportReportMayor] ?, ?
+2022-06-27 11:00:02,889:DEBUG:(700, 202106)
+2022-06-27 11:00:02,983:DEBUG:exec [Loyal_800].[dbo].[Tp_exportReportMayor] ?, ?
+2022-06-27 11:00:02,983:DEBUG:(800, 202107)
+2022-06-27 11:00:03,092:DEBUG:exec [Loyal_800].[dbo].[Tp_exportReportMayor] ?, ?
+2022-06-27 11:00:03,092:DEBUG:(800, 202108)
+2022-06-27 11:00:03,139:DEBUG:exec [Loyal_800].[dbo].[Tp_exportReportMayor] ?, ?
+2022-06-27 11:00:03,139:DEBUG:(800, 202109)
+2022-06-27 11:00:03,201:DEBUG:exec [Loyal_800].[dbo].[Tp_exportReportMayor] ?, ?
+2022-06-27 11:00:03,201:DEBUG:(800, 202110)
+2022-06-27 11:00:03,248:DEBUG:exec [Loyal_800].[dbo].[Tp_exportReportMayor] ?, ?
+2022-06-27 11:00:03,248:DEBUG:(800, 202111)
+2022-06-27 11:00:03,295:DEBUG:exec [Loyal_800].[dbo].[Tp_exportReportMayor] ?, ?
+2022-06-27 11:00:03,295:DEBUG:(800, 202112)
+2022-06-27 11:00:03,311:DEBUG:Detail Commit C:\cron\sync\rCommit.bat - 0
+2022-06-27 11:00:03,311:DEBUG:(700, 202010, '0x90fad32de29f0a221f8dd317e6588a01', '700202010317e658')
+2022-06-27 11:00:03,311:DEBUG:exec [Loyal].[dbo].[Tp_ExportDetails_To_Mayor] ?, ?
+2022-06-27 11:00:03,311:DEBUG:(700, 202010)
+2022-06-27 11:00:03,326:DEBUG:sync\repo\700202010317e658.csv
+2022-06-27 11:00:03,342:DEBUG:exec [Loyal].[dbo].[Tp_UpdateCronExport_Details] ?, ?
+2022-06-27 11:00:03,342:DEBUG:(700, 202010)
+2022-06-27 11:00:03,342:DEBUG:exec [Loyal_800].[dbo].[Tp_exportReportMayor] ?, ?
+2022-06-27 11:00:03,342:DEBUG:(800, 202201)
+2022-06-27 11:00:03,389:DEBUG:exec [Loyal_800].[dbo].[Tp_exportReportMayor] ?, ?
+2022-06-27 11:00:03,404:DEBUG:(800, 202202)
+2022-06-27 11:00:03,404:DEBUG:Detail Add C:\cron\sync\rAdd.bat - 0
