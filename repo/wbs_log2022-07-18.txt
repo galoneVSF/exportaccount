@@ -327,3 +327,11 @@ ON;UID=crn;PWD=crn', 'debug': 1, 'zip': 0, 'git': 1, 'path': 'C:\\cron\\sync\\'}
 2022-07-18 11:00:05,446:DEBUG:exec [Loyal].[dbo].[Tp_UpdateCronExport_Details] ?, ?
 2022-07-18 11:00:05,446:DEBUG:(800, 202203)
 2022-07-18 11:00:05,495:DEBUG:Detail Add C:\cron\sync\rAdd.bat - 0
+2022-07-18 11:00:05,575:DEBUG:Detail Commit C:\cron\sync\rCommit.bat - 0
+2022-07-18 11:00:05,575:DEBUG:(800, 202204, '0x5c34291ff9aeff5efd68658fa1a98681', '80020220458fa1a9')
+2022-07-18 11:00:05,575:DEBUG:exec [Loyal].[dbo].[Tp_ExportDetails_To_Mayor] ?, ?
+2022-07-18 11:00:05,575:DEBUG:(800, 202204)
+2022-07-18 11:00:05,591:DEBUG:sync\repo\80020220458fa1a9.csv
+2022-07-18 11:00:05,598:DEBUG:exec [Loyal].[dbo].[Tp_UpdateCronExport_Details] ?, ?
+2022-07-18 11:00:05,598:DEBUG:(800, 202204)
+2022-07-18 11:00:05,650:DEBUG:Detail Add C:\cron\sync\rAdd.bat - 0
