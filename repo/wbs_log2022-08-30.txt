@@ -50,3 +50,10 @@
 2022-08-30 11:00:02,303:DEBUG:**********
 2022-08-30 11:00:02,303:DEBUG:END: {'dsn': 'DSN=SQLCRON;UID=crn;PWD=crn', 'debug': 1, 'zip': 0, 'git': 1, 'path': 'C:\\cron\\sync\\'}
 2022-08-30 11:00:02,303:DEBUG:____
+2022-08-30 11:00:02,460:DEBUG:Add All C:\cron\sync\rAdd.bat - 0
+2022-08-30 11:00:02,569:DEBUG:Commit All C:\cron\sync\rCommit.bat - 0
+2022-08-30 11:00:05,779:DEBUG:Push C:\cron\sync\run.bat - 0
+2022-08-30 11:00:05,779:DEBUG:EndCronExport
+2022-08-30 11:00:05,779:DEBUG:********************
+2022-08-30 11:00:05,779:DEBUG:END: {'dsn': 'DSN=SQLCRON;UID=crn;PWD=crn', 'debug': 1, 'zip': 0, 'git': 1, 'path': 'C:\\cron\\sync\\'}
+2022-08-30 11:00:05,779:DEBUG:____
