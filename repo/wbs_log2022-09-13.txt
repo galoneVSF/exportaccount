@@ -1,0 +1,29 @@
+2022-09-13 10:00:02,871:DEBUG:__1.1__
+2022-09-13 10:00:02,871:DEBUG:INI: {'dsn': 'DSN=SQLCRON;UID=crn;PWD=crn', 'debug': 1, 'zip': 0, 'git': 1, 'path': 'C:\\cron\\sync\\'}
+2022-09-13 10:00:02,872:DEBUG:**********
+2022-09-13 10:00:02,872:DEBUG:BeginCronBuild 1.2
+2022-09-13 10:00:02,872:DEBUG:INI: {'dsn': 'DSN=SQLCRON;UID=crn;PWD=crn', 'debug': 1, 'zip': 0, 'git': 1, 'path': 'C:\\cron\\sync\\'}
+2022-09-13 10:00:03,187:DEBUG:exec [Loyal].[dbo].[STEP_1_SearchNovedades]
+2022-09-13 10:00:03,277:DEBUG:exec [Loyal].[dbo].[STEP_2_ExtraerNovedadesConDiferencias]
+2022-09-13 10:00:03,283:DEBUG:EndCronBuild
+2022-09-13 10:00:03,283:DEBUG:**********
+2022-09-13 10:00:03,283:DEBUG:END: {'dsn': 'DSN=SQLCRON;UID=crn;PWD=crn', 'debug': 1, 'zip': 0, 'git': 1, 'path': 'C:\\cron\\sync\\'}
+2022-09-13 10:00:03,283:DEBUG:____
+2022-09-13 11:00:01,804:DEBUG:__1.1__
+2022-09-13 11:00:01,805:DEBUG:INI: {'dsn': 'DSN=SQLCRON;UID=crn;PWD=crn', 'debug': 1, 'zip': 0, 'git': 1, 'path': 'C:\\cron\\sync\\'}
+2022-09-13 11:00:01,805:DEBUG:INI: {'dsn': 'DSN=SQLCRON;UID=crn;PWD=crn', 'debug': 1, 'zip': 0, 'git': 1, 'path': 'C:\\cron\\sync\\'}
+2022-09-13 11:00:01,805:DEBUG:********************
+2022-09-13 11:00:01,805:DEBUG:BeginCronExport 1.1
+2022-09-13 11:00:01,805:DEBUG:**********
+2022-09-13 11:00:01,805:DEBUG:C:\cron\sync\rAdd.bat
+2022-09-13 11:00:01,805:DEBUG:BeginCronBuild 1.2
+.bat
+2022-09-13 11:00:01,805:DEBUG:C:\cron\sync\run.bat
+2022-09-13 11:00:01,805:DEBUG:INI: {'dsn': 'DSN=SQLCRON;UID=crn;PWD=crn', 'debug': 1, 'zip': 0, 'git': 1, 'path': 'C:\\cron\\sync\\'}
+2022-09-13 11:00:01,869:DEBUG:exec [Loyal].[dbo].[STEP_1_SearchNovedades]
+2022-09-13 11:00:01,872:DEBUG:exec [Loyal].[dbo].[Tp_JSONCronExport]
+2022-09-13 11:00:01,873:DEBUG:exec [Loyal].[dbo].[STEP_2_ExtraerNovedadesConDiferencias]
+2022-09-13 11:00:01,873:DEBUG:EndCronBuild
+2022-09-13 11:00:01,873:DEBUG:**********
+2022-09-13 11:00:01,873:DEBUG:END: {'dsn': 'DSN=SQLCRON;UID=crn;PWD=crn', 'debug': 1, 'zip': 0, 'git': 1, 'path': 'C:\\cron\\sync\\'}
+2022-09-13 11:00:01,873:DEBUG:____
