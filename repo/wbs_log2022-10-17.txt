@@ -151,3 +151,34 @@
 2022-10-17 11:00:02,926:DEBUG:Detail Add C:\cron\sync\rAdd.bat - 0
 2022-10-17 11:00:02,961:DEBUG:exec [Loyal_800].[dbo].[Tp_exportReportMayor] ?, ?
 2022-10-17 11:00:02,962:DEBUG:(800, 202112)
+2022-10-17 11:00:03,011:DEBUG:Detail Commit C:\cron\sync\rCommit.bat - 0
+2022-10-17 11:00:03,011:DEBUG:(700, 202012, '0x29186b7a79aafdadc676a7b1fa83d165', '7002020127b1fa83')
+2022-10-17 11:00:03,011:DEBUG:exec [Loyal].[dbo].[Tp_ExportDetails_To_Mayor] ?, ?
+2022-10-17 11:00:03,011:DEBUG:(700, 202012)
+2022-10-17 11:00:03,025:DEBUG:exec [Loyal_800].[dbo].[Tp_exportReportMayor] ?, ?
+2022-10-17 11:00:03,025:DEBUG:(800, 202201)
+2022-10-17 11:00:03,074:DEBUG:exec [Loyal_800].[dbo].[Tp_exportReportMayor] ?, ?
+2022-10-17 11:00:03,074:DEBUG:(800, 202202)
+2022-10-17 11:00:03,086:DEBUG:sync\repo\7002020127b1fa83.csv
+2022-10-17 11:00:03,097:DEBUG:exec [Loyal].[dbo].[Tp_UpdateCronExport_Details] ?, ?
+2022-10-17 11:00:03,097:DEBUG:(700, 202012)
+2022-10-17 11:00:03,127:DEBUG:exec [Loyal_800].[dbo].[Tp_exportReportMayor] ?, ?
+2022-10-17 11:00:03,127:DEBUG:(800, 202203)
+2022-10-17 11:00:03,234:DEBUG:Detail Add C:\cron\sync\rAdd.bat - 0
+2022-10-17 11:00:03,347:DEBUG:exec [Loyal_800].[dbo].[Tp_exportReportMayor] ?, ?
+2022-10-17 11:00:03,347:DEBUG:(800, 202204)
+2022-10-17 11:00:03,417:DEBUG:Detail Commit C:\cron\sync\rCommit.bat - 0
+2022-10-17 11:00:03,418:DEBUG:(700, 202101, '0x69ee8d9de3a52d254953ebd95e3b2de5', '700202101bd95e3b')
+2022-10-17 11:00:03,418:DEBUG:exec [Loyal].[dbo].[Tp_ExportDetails_To_Mayor] ?, ?
+2022-10-17 11:00:03,418:DEBUG:(700, 202101)
+2022-10-17 11:00:03,428:DEBUG:exec [Loyal_800].[dbo].[Tp_exportReportMayor] ?, ?
+2022-10-17 11:00:03,428:DEBUG:(800, 202205)
+2022-10-17 11:00:03,465:DEBUG:sync\repo\700202101bd95e3b.csv
+2022-10-17 11:00:03,481:DEBUG:exec [Loyal_800].[dbo].[Tp_exportReportMayor] ?, ?
+2022-10-17 11:00:03,482:DEBUG:(800, 202206)
+2022-10-17 11:00:03,499:DEBUG:exec [Loyal].[dbo].[Tp_UpdateCronExport_Details] ?, ?
+2022-10-17 11:00:03,499:DEBUG:(700, 202101)
+2022-10-17 11:00:03,535:DEBUG:EndCronBuild
+2022-10-17 11:00:03,535:DEBUG:**********
+2022-10-17 11:00:03,535:DEBUG:END: {'dsn': 'DSN=SQLCRON;UID=crn;PWD=crn', 'debug': 1, 'zip': 0, 'git': 1, 'path': 'C:\\cron\\sync\\'}
+2022-10-17 11:00:03,535:DEBUG:____
