@@ -112,3 +112,28 @@
 2022-11-14 11:00:03,021:DEBUG:(700, 202012)
 2022-11-14 11:00:03,054:DEBUG:exec [Loyal_800].[dbo].[Tp_exportReportMayor] ?, ?
 2022-11-14 11:00:03,054:DEBUG:(800, 202202)
+2022-11-14 11:00:03,077:DEBUG:Detail Add C:\cron\sync\rAdd.bat - 0
+2022-11-14 11:00:03,107:DEBUG:exec [Loyal_800].[dbo].[Tp_exportReportMayor] ?, ?
+2022-11-14 11:00:03,108:DEBUG:(800, 202203)
+2022-11-14 11:00:03,158:DEBUG:Detail Commit C:\cron\sync\rCommit.bat - 0
+2022-11-14 11:00:03,158:DEBUG:(700, 202101, '0x69ee8d9de3a52d254953ebd95e3b2de5', '700202101bd95e3b')
+2022-11-14 11:00:03,158:DEBUG:exec [Loyal].[dbo].[Tp_ExportDetails_To_Mayor] ?, ?
+2022-11-14 11:00:03,158:DEBUG:(700, 202101)
+2022-11-14 11:00:03,164:DEBUG:exec [Loyal_800].[dbo].[Tp_exportReportMayor] ?, ?
+2022-11-14 11:00:03,164:DEBUG:(800, 202204)
+2022-11-14 11:00:03,173:DEBUG:sync\repo\700202101bd95e3b.csv
+2022-11-14 11:00:03,181:DEBUG:exec [Loyal].[dbo].[Tp_UpdateCronExport_Details] ?, ?
+2022-11-14 11:00:03,181:DEBUG:(700, 202101)
+2022-11-14 11:00:03,216:DEBUG:exec [Loyal_800].[dbo].[Tp_exportReportMayor] ?, ?
+2022-11-14 11:00:03,216:DEBUG:(800, 202205)
+2022-11-14 11:00:03,234:DEBUG:Detail Add C:\cron\sync\rAdd.bat - 0
+2022-11-14 11:00:03,273:DEBUG:exec [Loyal_800].[dbo].[Tp_exportReportMayor] ?, ?
+2022-11-14 11:00:03,273:DEBUG:(800, 202206)
+2022-11-14 11:00:03,316:DEBUG:Detail Commit C:\cron\sync\rCommit.bat - 0
+2022-11-14 11:00:03,316:DEBUG:(700, 202103, '0x6f8a6d0606591c0f7b0c8374233470a9', '7002021033742334')
+2022-11-14 11:00:03,316:DEBUG:exec [Loyal].[dbo].[Tp_ExportDetails_To_Mayor] ?, ?
+2022-11-14 11:00:03,316:DEBUG:(700, 202103)
+2022-11-14 11:00:03,327:DEBUG:EndCronBuild
+2022-11-14 11:00:03,327:DEBUG:**********
+2022-11-14 11:00:03,327:DEBUG:END: {'dsn': 'DSN=SQLCRON;UID=crn;PWD=crn', 'debug': 1, 'zip': 0, 'git': 1, 'path': 'C:\\cron\\sync\\'}
+2022-11-14 11:00:03,327:DEBUG:____
