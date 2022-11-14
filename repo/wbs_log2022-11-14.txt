@@ -137,3 +137,6 @@
 2022-11-14 11:00:03,327:DEBUG:**********
 2022-11-14 11:00:03,327:DEBUG:END: {'dsn': 'DSN=SQLCRON;UID=crn;PWD=crn', 'debug': 1, 'zip': 0, 'git': 1, 'path': 'C:\\cron\\sync\\'}
 2022-11-14 11:00:03,327:DEBUG:____
+2022-11-14 11:00:03,339:DEBUG:sync\repo\7002021033742334.csv
+2022-11-14 11:00:03,444:DEBUG:exec [Loyal].[dbo].[Tp_UpdateCronExport_Details] ?, ?
+2022-11-14 11:00:03,444:DEBUG:(700, 202103)
