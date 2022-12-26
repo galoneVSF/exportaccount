@@ -174,3 +174,28 @@
 2022-12-26 11:00:02,966:DEBUG:(700, 202101)
 2022-12-26 11:00:03,016:DEBUG:exec [Loyal_700].[dbo].[Tp_exportReportMayor] ?, ?
 2022-12-26 11:00:03,016:DEBUG:(700, 202103)
+2022-12-26 11:00:03,075:DEBUG:exec [Loyal_700].[dbo].[Tp_exportReportMayor] ?, ?
+2022-12-26 11:00:03,075:DEBUG:(700, 202105)
+2022-12-26 11:00:03,098:DEBUG:Detail Add C:\cron\sync\rAdd.bat - 0
+2022-12-26 11:00:03,136:DEBUG:exec [Loyal_700].[dbo].[Tp_exportReportMayor] ?, ?
+2022-12-26 11:00:03,136:DEBUG:(700, 202106)
+2022-12-26 11:00:03,212:DEBUG:exec [Loyal_800].[dbo].[Tp_exportReportMayor] ?, ?
+2022-12-26 11:00:03,212:DEBUG:(800, 202107)
+2022-12-26 11:00:03,416:DEBUG:exec [Loyal_800].[dbo].[Tp_exportReportMayor] ?, ?
+2022-12-26 11:00:03,416:DEBUG:(800, 202108)
+2022-12-26 11:00:03,475:DEBUG:exec [Loyal_800].[dbo].[Tp_exportReportMayor] ?, ?
+2022-12-26 11:00:03,476:DEBUG:(800, 202109)
+2022-12-26 11:00:03,532:DEBUG:exec [Loyal_800].[dbo].[Tp_exportReportMayor] ?, ?
+2022-12-26 11:00:03,532:DEBUG:(800, 202110)
+2022-12-26 11:00:03,536:DEBUG:Detail Commit C:\cron\sync\rCommit.bat - 0
+2022-12-26 11:00:03,536:DEBUG:(700, 202010, '0x90fad32de29f0a221f8dd317e6588a01', '700202010317e658')
+2022-12-26 11:00:03,536:DEBUG:exec [Loyal].[dbo].[Tp_ExportDetails_To_Mayor] ?, ?
+2022-12-26 11:00:03,536:DEBUG:(700, 202010)
+2022-12-26 11:00:03,563:DEBUG:sync\repo\700202010317e658.csv
+2022-12-26 11:00:03,567:DEBUG:exec [Loyal].[dbo].[Tp_UpdateCronExport_Details] ?, ?
+2022-12-26 11:00:03,567:DEBUG:(700, 202010)
+2022-12-26 11:00:03,590:DEBUG:exec [Loyal_800].[dbo].[Tp_exportReportMayor] ?, ?
+2022-12-26 11:00:03,590:DEBUG:(800, 202111)
+2022-12-26 11:00:03,626:DEBUG:Detail Add C:\cron\sync\rAdd.bat - 0
+2022-12-26 11:00:03,649:DEBUG:exec [Loyal_800].[dbo].[Tp_exportReportMayor] ?, ?
+2022-12-26 11:00:03,649:DEBUG:(800, 202112)
