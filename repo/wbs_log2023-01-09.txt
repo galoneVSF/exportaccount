@@ -167,3 +167,7 @@
 2023-01-09 11:00:02,377:DEBUG:**********
 2023-01-09 11:00:02,377:DEBUG:END: {'dsn': 'DSN=SQLCRON;UID=crn;PWD=crn', 'debug': 1, 'zip': 0, 'git': 1, 'path': 'C:\\cron\\sync\\'}
 2023-01-09 11:00:02,393:DEBUG:____
+2023-01-09 11:00:02,393:DEBUG:sync\repo\800202108bac59a7.csv
+2023-01-09 11:00:02,408:DEBUG:exec [Loyal].[dbo].[Tp_UpdateCronExport_Details] ?, ?
+2023-01-09 11:00:02,408:DEBUG:(800, 202108)
+2023-01-09 11:00:02,455:DEBUG:Detail Add C:\cron\sync\rAdd.bat - 0
