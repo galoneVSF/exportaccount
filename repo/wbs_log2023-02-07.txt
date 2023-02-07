@@ -1,0 +1,30 @@
+2023-02-07 10:00:02,692:DEBUG:__1.1__
+2023-02-07 10:00:02,692:DEBUG:INI: {'dsn': 'DSN=SQLCRON;UID=crn;PWD=crn', 'debug': 1, 'zip': 0, 'git': 1, 'path': 'C:\\cron\\sync\\'}
+2023-02-07 10:00:02,692:DEBUG:**********
+2023-02-07 10:00:02,708:DEBUG:BeginCronBuild 1.2
+2023-02-07 10:00:02,708:DEBUG:INI: {'dsn': 'DSN=SQLCRON;UID=crn;PWD=crn', 'debug': 1, 'zip': 0, 'git': 1, 'path': 'C:\\cron\\sync\\'}
+2023-02-07 10:00:02,895:DEBUG:exec [Loyal].[dbo].[STEP_1_SearchNovedades]
+2023-02-07 10:00:02,911:DEBUG:exec [Loyal].[dbo].[STEP_2_ExtraerNovedadesConDiferencias]
+2023-02-07 10:00:02,911:DEBUG:EndCronBuild
+2023-02-07 10:00:02,911:DEBUG:**********
+2023-02-07 10:00:02,911:DEBUG:END: {'dsn': 'DSN=SQLCRON;UID=crn;PWD=crn', 'debug': 1, 'zip': 0, 'git': 1, 'path': 'C:\\cron\\sync\\'}
+2023-02-07 10:00:02,911:DEBUG:____
+2023-02-07 11:00:01,795:DEBUG:__1.1__
+2023-02-07 11:00:01,795:DEBUG:INI: {'dsn': 'DSN=SQLCRON;UID=crn;PWD=crn', 'debug': 1, 'zip': 0, 'git': 1, 'path': 'C:\\cron\\sync\\'}
+2023-02-07 11:00:01,795:DEBUG:INI: {'dsn': 'DSN=SQLCRON;UID=crn;PWD=crn', 'debug': 1, 'zip': 0, 'git': 1, 'path': 'C:\\cron\\sync\\'}
+2023-02-07 11:00:01,795:DEBUG:**********
+2023-02-07 11:00:01,795:DEBUG:BeginCronBuild 1.2
+2023-02-07 11:00:01,795:DEBUG:********************
+2023-02-07 11:00:01,795:DEBUG:INI: {'dsn': 'DSN=SQLCRON;UID=crn;PWD=crn', 'debug': 1, 'zip': 0, 'git': 1, 'path': 'C:\\cron\\sync\\'}
+2023-02-07 11:00:01,795:DEBUG:BeginCronExport 1.1
+2023-02-07 11:00:01,795:DEBUG:C:\cron\sync\rAdd.bat
+2023-02-07 11:00:01,795:DEBUG:C:\cron\sync\rCommit.bat
+2023-02-07 11:00:01,795:DEBUG:C:\cron\sync\run.bat
+2023-02-07 11:00:01,885:DEBUG:exec [Loyal].[dbo].[Tp_GetCronExport]
+des]
+2023-02-07 11:00:01,885:DEBUG:exec [Loyal].[dbo].[Tp_JSONCronExport]
+2023-02-07 11:00:01,906:DEBUG:exec [Loyal].[dbo].[STEP_2_ExtraerNovedadesConDiferencias]
+2023-02-07 11:00:01,906:DEBUG:EndCronBuild
+2023-02-07 11:00:01,906:DEBUG:**********
+2023-02-07 11:00:01,906:DEBUG:END: {'dsn': 'DSN=SQLCRON;UID=crn;PWD=crn', 'debug': 1, 'zip': 0, 'git': 1, 'path': 'C:\\cron\\sync\\'}
+2023-02-07 11:00:01,909:DEBUG:____
