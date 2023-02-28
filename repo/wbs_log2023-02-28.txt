@@ -1,0 +1,28 @@
+2023-02-28 10:00:05,789:DEBUG:__1.1__
+2023-02-28 10:00:05,789:DEBUG:INI: {'dsn': 'DSN=SQLCRON;UID=crn;PWD=crn', 'debug': 1, 'zip': 0, 'git': 1, 'path': 'C:\\cron\\sync\\'}
+2023-02-28 10:00:05,789:DEBUG:**********
+2023-02-28 10:00:05,789:DEBUG:BeginCronBuild 1.2
+2023-02-28 10:00:05,789:DEBUG:INI: {'dsn': 'DSN=SQLCRON;UID=crn;PWD=crn', 'debug': 1, 'zip': 0, 'git': 1, 'path': 'C:\\cron\\sync\\'}
+2023-02-28 10:00:06,227:DEBUG:exec [Loyal].[dbo].[STEP_1_SearchNovedades]
+2023-02-28 10:00:06,259:DEBUG:exec [Loyal].[dbo].[STEP_2_ExtraerNovedadesConDiferencias]
+2023-02-28 10:00:06,354:DEBUG:EndCronBuild
+2023-02-28 10:00:06,354:DEBUG:**********
+2023-02-28 10:00:06,354:DEBUG:END: {'dsn': 'DSN=SQLCRON;UID=crn;PWD=crn', 'debug': 1, 'zip': 0, 'git': 1, 'path': 'C:\\cron\\sync\\'}
+2023-02-28 10:00:06,354:DEBUG:____
+2023-02-28 11:00:01,819:DEBUG:__1.1__
+2023-02-28 11:00:01,819:DEBUG:INI: {'dsn': 'DSN=SQLCRON;UID=crn;PWD=crn', 'debug': 1, 'zip': 0, 'git': 1, 'path': 'C:\\cron\\sync\\'}
+2023-02-28 11:00:01,819:DEBUG:INI: {'dsn': 'DSN=SQLCRON;UID=crn;PWD=crn', 'debug': 1, 'zip': 0, 'git': 1, 'path': 'C:\\cron\\sync\\'}
+2023-02-28 11:00:01,819:DEBUG:********************
+2023-02-28 11:00:01,819:DEBUG:BeginCronExport 1.1
+2023-02-28 11:00:01,819:DEBUG:INI: {'dsn': 'DSN=SQLCRON;UID=crn;PWD=crn', 'debug': 1, 'zip': 0, 'git': 1, 'path': 'C:\\cron\\sync\\'}
+2023-02-28 11:00:01,819:DEBUG:C:\cron\sync\rAdd.bat
+2023-02-28 11:00:01,819:DEBUG:C:\cron\sync\rCommit.bat
+2023-02-28 11:00:01,819:DEBUG:C:\cron\sync\run.bat
+2023-02-28 11:00:01,882:DEBUG:exec [Loyal].[dbo].[Tp_GetCronExport]
+2023-02-28 11:00:01,882:DEBUG:exec [Loyal].[dbo].[STEP_1_SearchNovedades]
+2023-02-28 11:00:01,897:DEBUG:exec [Loyal].[dbo].[Tp_JSONCronExport]
+2023-02-28 11:00:01,897:DEBUG:exec [Loyal].[dbo].[STEP_2_ExtraerNovedadesConDiferencias]
+2023-02-28 11:00:01,897:DEBUG:EndCronBuild
+2023-02-28 11:00:01,897:DEBUG:**********
+2023-02-28 11:00:01,897:DEBUG:END: {'dsn': 'DSN=SQLCRON;UID=crn;PWD=crn', 'debug': 1, 'zip': 0, 'git': 1, 'path': 'C:\\cron\\sync\\'}
+2023-02-28 11:00:01,897:DEBUG:____
