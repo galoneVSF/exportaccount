@@ -47,3 +47,33 @@
 2023-03-20 10:00:05,838:DEBUG:**********
 2023-03-20 10:00:05,838:DEBUG:END: {'dsn': 'DSN=SQLCRON;UID=crn;PWD=crn', 'debug': 1, 'zip': 0, 'git': 1, 'path': 'C:\\cron\\sync\\'}
 2023-03-20 10:00:05,838:DEBUG:____
+2023-03-20 11:00:01,494:DEBUG:__1.1__
+2023-03-20 11:00:01,494:DEBUG:INI: {'dsn': 'DSN=SQLCRON;UID=crn;PWD=crn', 'debug': 1, 'zip': 0, 'git': 1, 'path': 'C:\\cron\\sync\\'}
+2023-03-20 11:00:01,494:DEBUG:INI: {'dsn': 'DSN=SQLCRON;UID=crn;PWD=crn', 'debug': 1, 'zip': 0, 'git': 1, 'path': 'C:\\cron\\sync\\'}
+2023-03-20 11:00:01,494:DEBUG:**********
+2023-03-20 11:00:01,494:DEBUG:********************
+2023-03-20 11:00:01,494:DEBUG:BeginCronBuild 1.2
+2023-03-20 11:00:01,494:DEBUG:BeginCronExport 1.1
+2023-03-20 11:00:01,494:DEBUG:INI: {'dsn': 'DSN=SQLCRON;UID=crn;PWD=crn', 'debug': 1, 'zip': 0, 'git': 1, 'path': 'C:\\cron\\sync\\'}
+2023-03-20 11:00:01,494:DEBUG:C:\cron\sync\rAdd.bat
+2023-03-20 11:00:01,494:DEBUG:C:\cron\sync\rCommit.bat
+2023-03-20 11:00:01,494:DEBUG:C:\cron\sync\run.bat
+2023-03-20 11:00:01,572:DEBUG:exec [Loyal].[dbo].[Tp_GetCronExport]
+2023-03-20 11:00:01,572:DEBUG:exec [Loyal].[dbo].[STEP_1_SearchNovedades]
+2023-03-20 11:00:01,572:DEBUG:(700, 202008, '0xf7532c1a80d041b067f86186ffe83ab1', '700202008186ffe8')
+2023-03-20 11:00:01,572:DEBUG:exec [Loyal].[dbo].[Tp_ExportDetails_To_Mayor] ?, ?
+2023-03-20 11:00:01,572:DEBUG:(700, 202008)
+2023-03-20 11:00:01,572:DEBUG:exec [Loyal].[dbo].[STEP_2_ExtraerNovedadesConDiferencias]
+2023-03-20 11:00:01,572:DEBUG:exec [Loyal_700].[dbo].[Tp_exportReportMayor] ?, ?
+2023-03-20 11:00:01,572:DEBUG:(700, 202008)
+2023-03-20 11:00:01,681:DEBUG:sync\repo\700202008186ffe8.csv
+2023-03-20 11:00:01,697:DEBUG:exec [Loyal].[dbo].[Tp_UpdateCronExport_Details] ?, ?
+2023-03-20 11:00:01,697:DEBUG:(700, 202008)
+2023-03-20 11:00:01,806:DEBUG:exec [Loyal_700].[dbo].[Tp_exportReportMayor] ?, ?
+2023-03-20 11:00:01,806:DEBUG:(700, 202010)
+2023-03-20 11:00:01,869:DEBUG:exec [Loyal_700].[dbo].[Tp_exportReportMayor] ?, ?
+2023-03-20 11:00:01,869:DEBUG:(700, 202012)
+2023-03-20 11:00:01,915:DEBUG:exec [Loyal_700].[dbo].[Tp_exportReportMayor] ?, ?
+2023-03-20 11:00:01,915:DEBUG:(700, 202101)
+2023-03-20 11:00:01,962:DEBUG:exec [Loyal_700].[dbo].[Tp_exportReportMayor] ?, ?
+2023-03-20 11:00:01,962:DEBUG:(700, 202103)
