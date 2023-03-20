@@ -238,3 +238,11 @@
 2023-03-20 11:00:05,524:DEBUG:exec [Loyal].[dbo].[Tp_UpdateCronExport_Details] ?, ?
 2023-03-20 11:00:05,524:DEBUG:(800, 202204)
 2023-03-20 11:00:05,586:DEBUG:Detail Add C:\cron\sync\rAdd.bat - 0
+2023-03-20 11:00:05,665:DEBUG:Detail Commit C:\cron\sync\rCommit.bat - 0
+2023-03-20 11:00:05,665:DEBUG:(800, 202205, '0xe0aac3a882dbf1fe1fb604b7257880d8', '8002022054b72578')
+2023-03-20 11:00:05,665:DEBUG:exec [Loyal].[dbo].[Tp_ExportDetails_To_Mayor] ?, ?
+2023-03-20 11:00:05,665:DEBUG:(800, 202205)
+2023-03-20 11:00:05,680:DEBUG:sync\repo\8002022054b72578.csv
+2023-03-20 11:00:05,696:DEBUG:exec [Loyal].[dbo].[Tp_UpdateCronExport_Details] ?, ?
+2023-03-20 11:00:05,696:DEBUG:(800, 202205)
+2023-03-20 11:00:05,758:DEBUG:Detail Add C:\cron\sync\rAdd.bat - 0
