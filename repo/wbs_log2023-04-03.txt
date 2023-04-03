@@ -78,3 +78,20 @@
 2023-04-03 11:00:01,140:DEBUG:exec [Loyal].[dbo].[STEP_2_ExtraerNovedadesConDiferencias]
 2023-04-03 11:00:01,140:DEBUG:exec [Loyal_700].[dbo].[Tp_exportReportMayor] ?, ?
 2023-04-03 11:00:01,140:DEBUG:(700, 202012)
+2023-04-03 11:00:01,249:DEBUG:Detail Add C:\cron\sync\rAdd.bat - 0
+2023-04-03 11:00:01,374:DEBUG:exec [Loyal_700].[dbo].[Tp_exportReportMayor] ?, ?
+2023-04-03 11:00:01,374:DEBUG:(700, 202101)
+2023-04-03 11:00:01,421:DEBUG:Detail Commit C:\cron\sync\rCommit.bat - 0
+2023-04-03 11:00:01,421:DEBUG:(700, 202012, '0x29186b7a79aafdadc676a7b1fa83d165', '7002020127b1fa83')
+2023-04-03 11:00:01,421:DEBUG:exec [Loyal].[dbo].[Tp_ExportDetails_To_Mayor] ?, ?
+2023-04-03 11:00:01,421:DEBUG:(700, 202012)
+2023-04-03 11:00:01,437:DEBUG:exec [Loyal_700].[dbo].[Tp_exportReportMayor] ?, ?
+2023-04-03 11:00:01,437:DEBUG:(700, 202103)
+2023-04-03 11:00:01,437:DEBUG:sync\repo\7002020127b1fa83.csv
+2023-04-03 11:00:01,453:DEBUG:exec [Loyal].[dbo].[Tp_UpdateCronExport_Details] ?, ?
+2023-04-03 11:00:01,453:DEBUG:(700, 202012)
+2023-04-03 11:00:01,484:DEBUG:exec [Loyal_700].[dbo].[Tp_exportReportMayor] ?, ?
+2023-04-03 11:00:01,484:DEBUG:(700, 202105)
+2023-04-03 11:00:01,515:DEBUG:Detail Add C:\cron\sync\rAdd.bat - 0
+2023-04-03 11:00:01,562:DEBUG:exec [Loyal_700].[dbo].[Tp_exportReportMayor] ?, ?
+2023-04-03 11:00:01,562:DEBUG:(700, 202106)
