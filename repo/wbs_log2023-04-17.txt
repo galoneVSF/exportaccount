@@ -206,3 +206,11 @@ des]
 2023-04-17 11:00:04,685:DEBUG:exec [Loyal].[dbo].[Tp_UpdateCronExport_Details] ?, ?
 2023-04-17 11:00:04,685:DEBUG:(800, 202112)
 2023-04-17 11:00:04,747:DEBUG:Detail Add C:\cron\sync\rAdd.bat - 0
+2023-04-17 11:00:04,825:DEBUG:Detail Commit C:\cron\sync\rCommit.bat - 0
+2023-04-17 11:00:04,825:DEBUG:(800, 202201, '0x1ef6ea029fa1908cdc07578effade837', '80020220178effad')
+2023-04-17 11:00:04,825:DEBUG:exec [Loyal].[dbo].[Tp_ExportDetails_To_Mayor] ?, ?
+2023-04-17 11:00:04,825:DEBUG:(800, 202201)
+2023-04-17 11:00:04,841:DEBUG:sync\repo\80020220178effad.csv
+2023-04-17 11:00:04,841:DEBUG:exec [Loyal].[dbo].[Tp_UpdateCronExport_Details] ?, ?
+2023-04-17 11:00:04,841:DEBUG:(800, 202201)
+2023-04-17 11:00:04,904:DEBUG:Detail Add C:\cron\sync\rAdd.bat - 0
