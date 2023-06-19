@@ -167,3 +167,23 @@
 2023-06-19 11:00:01,282:DEBUG:sync\repo\700202010317e658.csv
 2023-06-19 11:00:01,298:DEBUG:exec [Loyal].[dbo].[Tp_UpdateCronExport_Details] ?, ?
 2023-06-19 11:00:01,298:DEBUG:(700, 202010)
+2023-06-19 11:00:01,345:DEBUG:Detail Add C:\cron\sync\rAdd.bat - 0
+2023-06-19 11:00:01,407:DEBUG:__1.1__
+2023-06-19 11:00:01,423:DEBUG:INI: {'dsn': 'DSN=SQLCRON;UID=crn;PWD=crn', 'debug': 1, 'zip': 0, 'git': 1, 'path': 'C:\\cron\\sync\\'}
+2023-06-19 11:00:01,423:DEBUG:**********
+2023-06-19 11:00:01,423:DEBUG:BeginCronBuild 1.2
+2023-06-19 11:00:01,423:DEBUG:INI: {'dsn': 'DSN=SQLCRON;UID=crn;PWD=crn', 'debug': 1, 'zip': 0, 'git': 1, 'path': 'C:\\cron\\sync\\'}
+2023-06-19 11:00:01,438:DEBUG:Detail Commit C:\cron\sync\rCommit.bat - 0
+2023-06-19 11:00:01,438:DEBUG:(700, 202012, '0x29186b7a79aafdadc676a7b1fa83d165', '7002020127b1fa83')
+2023-06-19 11:00:01,438:DEBUG:exec [Loyal].[dbo].[Tp_ExportDetails_To_Mayor] ?, ?
+2023-06-19 11:00:01,438:DEBUG:(700, 202012)
+2023-06-19 11:00:01,454:DEBUG:exec [Loyal].[dbo].[STEP_1_SearchNovedades]
+2023-06-19 11:00:01,454:DEBUG:exec [Loyal].[dbo].[STEP_2_ExtraerNovedadesConDiferencias]
+2023-06-19 11:00:01,454:DEBUG:exec [Loyal_700].[dbo].[Tp_exportReportMayor] ?, ?
+2023-06-19 11:00:01,454:DEBUG:(700, 202012)
+2023-06-19 11:00:01,454:DEBUG:sync\repo\7002020127b1fa83.csv
+2023-06-19 11:00:01,470:DEBUG:exec [Loyal].[dbo].[Tp_UpdateCronExport_Details] ?, ?
+2023-06-19 11:00:01,470:DEBUG:(700, 202012)
+2023-06-19 11:00:01,548:DEBUG:Detail Add C:\cron\sync\rAdd.bat - 0
+2023-06-19 11:00:01,673:DEBUG:exec [Loyal_700].[dbo].[Tp_exportReportMayor] ?, ?
+2023-06-19 11:00:01,673:DEBUG:(700, 202101)
