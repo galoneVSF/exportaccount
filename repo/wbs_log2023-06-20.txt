@@ -1,0 +1,29 @@
+2023-06-20 10:00:02,802:DEBUG:__1.1__
+2023-06-20 10:00:02,802:DEBUG:INI: {'dsn': 'DSN=SQLCRON;UID=crn;PWD=crn', 'debug': 1, 'zip': 0, 'git': 1, 'path': 'C:\\cron\\sync\\'}
+2023-06-20 10:00:02,802:DEBUG:**********
+2023-06-20 10:00:02,802:DEBUG:BeginCronBuild 1.2
+2023-06-20 10:00:02,802:DEBUG:INI: {'dsn': 'DSN=SQLCRON;UID=crn;PWD=crn', 'debug': 1, 'zip': 0, 'git': 1, 'path': 'C:\\cron\\sync\\'}
+2023-06-20 10:00:03,099:DEBUG:exec [Loyal].[dbo].[STEP_1_SearchNovedades]
+2023-06-20 10:00:03,162:DEBUG:exec [Loyal].[dbo].[STEP_2_ExtraerNovedadesConDiferencias]
+2023-06-20 10:00:03,162:DEBUG:EndCronBuild
+2023-06-20 10:00:03,162:DEBUG:**********
+2023-06-20 10:00:03,162:DEBUG:END: {'dsn': 'DSN=SQLCRON;UID=crn;PWD=crn', 'debug': 1, 'zip': 0, 'git': 1, 'path': 'C:\\cron\\sync\\'}
+2023-06-20 10:00:03,162:DEBUG:____
+2023-06-20 11:00:01,118:DEBUG:__1.1__
+2023-06-20 11:00:01,118:DEBUG:INI: {'dsn': 'DSN=SQLCRON;UID=crn;PWD=crn', 'debug': 1, 'zip': 0, 'git': 1, 'path': 'C:\\cron\\sync\\'}
+2023-06-20 11:00:01,118:DEBUG:INI: {'dsn': 'DSN=SQLCRON;UID=crn;PWD=crn', 'debug': 1, 'zip': 0, 'git': 1, 'path': 'C:\\cron\\sync\\'}
+2023-06-20 11:00:01,118:DEBUG:********************
+2023-06-20 11:00:01,118:DEBUG:**********
+2023-06-20 11:00:01,118:DEBUG:BeginCronExport 1.1
+2023-06-20 11:00:01,118:DEBUG:BeginCronBuild 1.2
+2023-06-20 11:00:01,118:DEBUG:C:\cron\sync\rAdd.bat
+2023-06-20 11:00:01,118:DEBUG:INI: {'dsn': 'DSN=SQLCRON;UID=crn;PWD=crn', 'debug': 1, 'zip': 0, 'git': 1, 'path': 'C:\\cron\\sync\\'}
+2023-06-20 11:00:01,118:DEBUG:C:\cron\sync\rCommit.bat
+2023-06-20 11:00:01,118:DEBUG:C:\cron\sync\run.bat
+2023-06-20 11:00:01,165:DEBUG:exec [Loyal].[dbo].[Tp_GetCronExport]
+des]
+2023-06-20 11:00:01,180:DEBUG:exec [Loyal].[dbo].[STEP_2_ExtraerNovedadesConDiferencias]
+2023-06-20 11:00:01,180:DEBUG:EndCronBuild
+2023-06-20 11:00:01,180:DEBUG:**********
+2023-06-20 11:00:01,180:DEBUG:END: {'dsn': 'DSN=SQLCRON;UID=crn;PWD=crn', 'debug': 1, 'zip': 0, 'git': 1, 'path': 'C:\\cron\\sync\\'}
+2023-06-20 11:00:01,180:DEBUG:____
