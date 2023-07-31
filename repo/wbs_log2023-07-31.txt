@@ -167,3 +167,17 @@
 2023-07-31 11:00:01,072:DEBUG:sync\repo\700202010317e658.csv
 2023-07-31 11:00:01,087:DEBUG:exec [Loyal].[dbo].[Tp_UpdateCronExport_Details] ?, ?
 2023-07-31 11:00:01,087:DEBUG:(700, 202010)
+2023-07-31 11:00:01,134:DEBUG:Detail Add C:\cron\sync\rAdd.bat - 0
+2023-07-31 11:00:01,228:DEBUG:Detail Commit C:\cron\sync\rCommit.bat - 0
+2023-07-31 11:00:01,228:DEBUG:(700, 202012, '0x29186b7a79aafdadc676a7b1fa83d165', '7002020127b1fa83')
+2023-07-31 11:00:01,228:DEBUG:exec [Loyal].[dbo].[Tp_ExportDetails_To_Mayor] ?, ?
+2023-07-31 11:00:01,228:DEBUG:(700, 202012)
+2023-07-31 11:00:01,244:DEBUG:sync\repo\7002020127b1fa83.csv
+2023-07-31 11:00:01,259:DEBUG:exec [Loyal].[dbo].[Tp_UpdateCronExport_Details] ?, ?
+2023-07-31 11:00:01,259:DEBUG:(700, 202012)
+2023-07-31 11:00:01,306:DEBUG:Detail Add C:\cron\sync\rAdd.bat - 0
+2023-07-31 11:00:01,353:DEBUG:__1.1__
+2023-07-31 11:00:01,353:DEBUG:INI: {'dsn': 'DSN=SQLCRON;UID=crn;PWD=crn', 'debug': 1, 'zip': 0, 'git': 1, 'path': 'C:\\cron\\sync\\'}
+2023-07-31 11:00:01,353:DEBUG:**********
+2023-07-31 11:00:01,353:DEBUG:BeginCronBuild 1.2
+2023-07-31 11:00:01,353:DEBUG:INI: {'dsn': 'DSN=SQLCRON;UID=crn;PWD=crn', 'debug': 1, 'zip': 0, 'git': 1, 'path': 'C:\\cron\\sync\\'}
