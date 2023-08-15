@@ -218,3 +218,20 @@
 2023-08-15 11:00:01,913:DEBUG:(700, 202105)
 2023-08-15 11:00:02,022:DEBUG:exec [Loyal_800].[dbo].[Tp_exportReportMayor] ?, ?
 2023-08-15 11:00:02,022:DEBUG:(800, 202108)
+2023-08-15 11:00:02,038:DEBUG:Detail Add C:\cron\sync\rAdd.bat - 0
+2023-08-15 11:00:02,085:DEBUG:exec [Loyal_800].[dbo].[Tp_exportReportMayor] ?, ?
+2023-08-15 11:00:02,085:DEBUG:(800, 202109)
+2023-08-15 11:00:02,132:DEBUG:Detail Commit C:\cron\sync\rCommit.bat - 0
+2023-08-15 11:00:02,132:DEBUG:(700, 202106, '0xb148760d418ab1c7a691cd248820b11e', '700202106d248820')
+2023-08-15 11:00:02,132:DEBUG:exec [Loyal].[dbo].[Tp_ExportDetails_To_Mayor] ?, ?
+2023-08-15 11:00:02,132:DEBUG:(700, 202106)
+2023-08-15 11:00:02,132:DEBUG:exec [Loyal_800].[dbo].[Tp_exportReportMayor] ?, ?
+2023-08-15 11:00:02,147:DEBUG:(800, 202110)
+2023-08-15 11:00:02,163:DEBUG:sync\repo\700202106d248820.csv
+2023-08-15 11:00:02,179:DEBUG:exec [Loyal].[dbo].[Tp_UpdateCronExport_Details] ?, ?
+2023-08-15 11:00:02,179:DEBUG:(700, 202106)
+2023-08-15 11:00:02,194:DEBUG:exec [Loyal_800].[dbo].[Tp_exportReportMayor] ?, ?
+2023-08-15 11:00:02,194:DEBUG:(800, 202111)
+2023-08-15 11:00:02,226:DEBUG:Detail Add C:\cron\sync\rAdd.bat - 0
+2023-08-15 11:00:02,241:DEBUG:exec [Loyal_800].[dbo].[Tp_exportReportMayor] ?, ?
+2023-08-15 11:00:02,241:DEBUG:(800, 202112)
