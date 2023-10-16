@@ -245,3 +245,21 @@
 2023-10-16 11:00:02,542:DEBUG:Detail Add C:\cron\sync\rAdd.bat - 0
 2023-10-16 11:00:02,573:DEBUG:exec [Loyal_800].[dbo].[Tp_exportReportMayor] ?, ?
 2023-10-16 11:00:02,573:DEBUG:(800, 202203)
+2023-10-16 11:00:02,636:DEBUG:Detail Commit C:\cron\sync\rCommit.bat - 0
+2023-10-16 11:00:02,636:DEBUG:(800, 202108, '0xbf3a3ae8a5f98c25f66e3bac59a7aaf9', '800202108bac59a7')
+2023-10-16 11:00:02,636:DEBUG:exec [Loyal].[dbo].[Tp_ExportDetails_To_Mayor] ?, ?
+2023-10-16 11:00:02,636:DEBUG:(800, 202108)
+2023-10-16 11:00:02,636:DEBUG:exec [Loyal_800].[dbo].[Tp_exportReportMayor] ?, ?
+2023-10-16 11:00:02,636:DEBUG:(800, 202204)
+2023-10-16 11:00:02,651:DEBUG:sync\repo\800202108bac59a7.csv
+2023-10-16 11:00:02,651:DEBUG:exec [Loyal].[dbo].[Tp_UpdateCronExport_Details] ?, ?
+2023-10-16 11:00:02,651:DEBUG:(800, 202108)
+2023-10-16 11:00:02,683:DEBUG:exec [Loyal_800].[dbo].[Tp_exportReportMayor] ?, ?
+2023-10-16 11:00:02,683:DEBUG:(800, 202205)
+2023-10-16 11:00:02,714:DEBUG:Detail Add C:\cron\sync\rAdd.bat - 0
+2023-10-16 11:00:02,745:DEBUG:exec [Loyal_800].[dbo].[Tp_exportReportMayor] ?, ?
+2023-10-16 11:00:02,745:DEBUG:(800, 202206)
+2023-10-16 11:00:02,792:DEBUG:EndCronBuild
+2023-10-16 11:00:02,792:DEBUG:**********
+2023-10-16 11:00:02,792:DEBUG:END: {'dsn': 'DSN=SQLCRON;UID=crn;PWD=crn', 'debug': 1, 'zip': 0, 'git': 1, 'path': 'C:\\cron\\sync\\'}
+2023-10-16 11:00:02,792:DEBUG:____
