@@ -117,3 +117,11 @@ des]
 2024-01-29 11:30:01,979:DEBUG:sync\repo\7002021052d2e86a.csv
 2024-01-29 11:30:01,994:DEBUG:exec [Loyal].[dbo].[Tp_UpdateCronExport_Details] ?, ?
 2024-01-29 11:30:01,994:DEBUG:(700, 202105)
+2024-01-29 11:30:02,057:DEBUG:Detail Add C:\cron\sync\rAdd.bat - 0
+2024-01-29 11:30:02,119:DEBUG:Detail Commit C:\cron\sync\rCommit.bat - 0
+2024-01-29 11:30:02,119:DEBUG:(700, 202106, '0xb148760d418ab1c7a691cd248820b11e', '700202106d248820')
+2024-01-29 11:30:02,119:DEBUG:exec [Loyal].[dbo].[Tp_ExportDetails_To_Mayor] ?, ?
+2024-01-29 11:30:02,119:DEBUG:(700, 202106)
+2024-01-29 11:30:02,151:DEBUG:sync\repo\700202106d248820.csv
+2024-01-29 11:30:02,166:DEBUG:exec [Loyal].[dbo].[Tp_UpdateCronExport_Details] ?, ?
+2024-01-29 11:30:02,166:DEBUG:(700, 202106)
