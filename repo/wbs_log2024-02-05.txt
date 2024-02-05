@@ -145,3 +145,34 @@
 2024-02-05 10:00:03,464:DEBUG:**********
 2024-02-05 10:00:03,464:DEBUG:END: {'dsn': 'DSN=SQLCRON;UID=crn;PWD=crn', 'debug': 1, 'zip': 0, 'git': 1, 'path': 'C:\\cron\\sync\\'}
 2024-02-05 10:00:03,464:DEBUG:____
+2024-02-05 11:00:01,298:DEBUG:__1.1__
+2024-02-05 11:00:01,298:DEBUG:INI: {'dsn': 'DSN=SQLCRON;UID=crn;PWD=crn', 'debug': 1, 'zip': 0, 'git': 1, 'path': 'C:\\cron\\sync\\'}
+2024-02-05 11:00:01,298:DEBUG:********************
+2024-02-05 11:00:01,298:DEBUG:BeginCronExport 1.1
+2024-02-05 11:00:01,298:DEBUG:C:\cron\sync\rAdd.bat
+2024-02-05 11:00:01,298:DEBUG:C:\cron\sync\rCommit.bat
+2024-02-05 11:00:01,298:DEBUG:C:\cron\sync\run.bat
+2024-02-05 11:00:01,330:DEBUG:__1.1__
+2024-02-05 11:00:01,330:DEBUG:INI: {'dsn': 'DSN=SQLCRON;UID=crn;PWD=crn', 'debug': 1, 'zip': 0, 'git': 1, 'path': 'C:\\cron\\sync\\'}
+2024-02-05 11:00:01,330:DEBUG:**********
+2024-02-05 11:00:01,330:DEBUG:BeginCronBuild 1.2
+2024-02-05 11:00:01,330:DEBUG:INI: {'dsn': 'DSN=SQLCRON;UID=crn;PWD=crn', 'debug': 1, 'zip': 0, 'git': 1, 'path': 'C:\\cron\\sync\\'}
+2024-02-05 11:00:01,330:DEBUG:exec [Loyal].[dbo].[Tp_GetCronExport]
+2024-02-05 11:00:01,345:DEBUG:(700, 202008, '0xf7532c1a80d041b067f86186ffe83ab1', '700202008186ffe8')
+2024-02-05 11:00:01,345:DEBUG:exec [Loyal].[dbo].[Tp_ExportDetails_To_Mayor] ?, ?
+2024-02-05 11:00:01,345:DEBUG:(700, 202008)
+2024-02-05 11:00:01,361:DEBUG:exec [Loyal].[dbo].[STEP_1_SearchNovedades]
+2024-02-05 11:00:01,361:DEBUG:exec [Loyal].[dbo].[STEP_2_ExtraerNovedadesConDiferencias]
+2024-02-05 11:00:01,361:DEBUG:exec [Loyal_700].[dbo].[Tp_exportReportMayor] ?, ?
+2024-02-05 11:00:01,361:DEBUG:(700, 202008)
+2024-02-05 11:00:01,470:DEBUG:sync\repo\700202008186ffe8.csv
+2024-02-05 11:00:01,486:DEBUG:exec [Loyal].[dbo].[Tp_UpdateCronExport_Details] ?, ?
+2024-02-05 11:00:01,486:DEBUG:(700, 202008)
+2024-02-05 11:00:01,579:DEBUG:exec [Loyal_700].[dbo].[Tp_exportReportMayor] ?, ?
+2024-02-05 11:00:01,579:DEBUG:(700, 202010)
+2024-02-05 11:00:01,642:DEBUG:exec [Loyal_700].[dbo].[Tp_exportReportMayor] ?, ?
+2024-02-05 11:00:01,642:DEBUG:(700, 202012)
+2024-02-05 11:00:01,689:DEBUG:exec [Loyal_700].[dbo].[Tp_exportReportMayor] ?, ?
+2024-02-05 11:00:01,689:DEBUG:(700, 202101)
+2024-02-05 11:00:01,736:DEBUG:exec [Loyal_700].[dbo].[Tp_exportReportMayor] ?, ?
+2024-02-05 11:00:01,736:DEBUG:(700, 202103)
