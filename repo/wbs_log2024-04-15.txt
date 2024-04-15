@@ -232,3 +232,20 @@
 2024-04-15 11:00:02,200:DEBUG:exec [Loyal].[dbo].[Tp_UpdateCronExport_Details] ?, ?
 2024-04-15 11:00:02,200:DEBUG:(800, 202109)
 2024-04-15 11:00:02,247:DEBUG:Detail Add C:\cron\sync\rAdd.bat - 0
+2024-04-15 11:00:02,309:DEBUG:Detail Commit C:\cron\sync\rCommit.bat - 0
+2024-04-15 11:00:02,309:DEBUG:(800, 202110, '0xbd5aa31dee2cee10f9a4d34003073204', '8002021103400307')
+2024-04-15 11:00:02,309:DEBUG:exec [Loyal].[dbo].[Tp_ExportDetails_To_Mayor] ?, ?
+2024-04-15 11:00:02,309:DEBUG:(800, 202110)
+2024-04-15 11:00:02,325:DEBUG:sync\repo\8002021103400307.csv
+2024-04-15 11:00:02,325:DEBUG:exec [Loyal].[dbo].[Tp_UpdateCronExport_Details] ?, ?
+2024-04-15 11:00:02,340:DEBUG:(800, 202110)
+2024-04-15 11:00:02,372:DEBUG:__1.1__
+2024-04-15 11:00:02,372:DEBUG:INI: {'dsn': 'DSN=SQLCRON;UID=crn;PWD=crn', 'debug': 1, 'zip': 0, 'git': 1, 'path': 'C:\\cron\\sync\\'}
+2024-04-15 11:00:02,372:DEBUG:**********
+2024-04-15 11:00:02,372:DEBUG:BeginCronBuild 1.2
+2024-04-15 11:00:02,372:DEBUG:INI: {'dsn': 'DSN=SQLCRON;UID=crn;PWD=crn', 'debug': 1, 'zip': 0, 'git': 1, 'path': 'C:\\cron\\sync\\'}
+2024-04-15 11:00:02,387:DEBUG:Detail Add C:\cron\sync\rAdd.bat - 0
+2024-04-15 11:00:02,387:DEBUG:exec [Loyal].[dbo].[STEP_1_SearchNovedades]
+2024-04-15 11:00:02,387:DEBUG:exec [Loyal].[dbo].[STEP_2_ExtraerNovedadesConDiferencias]
+2024-04-15 11:00:02,387:DEBUG:exec [Loyal_800].[dbo].[Tp_exportReportMayor] ?, ?
+2024-04-15 11:00:02,387:DEBUG:(800, 202111)
