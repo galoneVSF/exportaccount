@@ -273,3 +273,11 @@
 2024-06-24 11:00:03,179:DEBUG:END: {'dsn': 'DSN=SQLCRON;UID=crn;PWD=crn', 'debug': 1, 'zip': 0, 'git': 1, 'path': 'C:\\cron\\sync\\'}
 2024-06-24 11:00:03,179:DEBUG:____
 2024-06-24 11:00:03,194:DEBUG:Detail Add C:\cron\sync\rAdd.bat - 0
+2024-06-24 11:00:03,272:DEBUG:Detail Commit C:\cron\sync\rCommit.bat - 0
+2024-06-24 11:00:03,272:DEBUG:(800, 202110, '0xbd5aa31dee2cee10f9a4d34003073204', '8002021103400307')
+2024-06-24 11:00:03,272:DEBUG:exec [Loyal].[dbo].[Tp_ExportDetails_To_Mayor] ?, ?
+2024-06-24 11:00:03,272:DEBUG:(800, 202110)
+2024-06-24 11:00:03,288:DEBUG:sync\repo\8002021103400307.csv
+2024-06-24 11:00:03,304:DEBUG:exec [Loyal].[dbo].[Tp_UpdateCronExport_Details] ?, ?
+2024-06-24 11:00:03,304:DEBUG:(800, 202110)
+2024-06-24 11:00:03,350:DEBUG:Detail Add C:\cron\sync\rAdd.bat - 0
