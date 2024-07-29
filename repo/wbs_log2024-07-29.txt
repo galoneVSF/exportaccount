@@ -66,3 +66,30 @@
 2024-07-29 11:00:01,066:DEBUG:**********
 2024-07-29 11:00:01,066:DEBUG:BeginCronBuild 1.2
 2024-07-29 11:00:01,066:DEBUG:INI: {'dsn': 'DSN=SQLCRON;UID=crn;PWD=crn', 'debug': 1, 'zip': 0, 'git': 1, 'path': 'C:\\cron\\sync\\'}
+2024-07-29 11:00:01,066:DEBUG:Detail Add C:\cron\sync\rAdd.bat - 0
+2024-07-29 11:00:01,082:DEBUG:exec [Loyal].[dbo].[STEP_1_SearchNovedades]
+2024-07-29 11:00:01,082:DEBUG:exec [Loyal].[dbo].[STEP_2_ExtraerNovedadesConDiferencias]
+2024-07-29 11:00:01,082:DEBUG:exec [Loyal_700].[dbo].[Tp_exportReportMayor] ?, ?
+2024-07-29 11:00:01,082:DEBUG:(700, 202010)
+2024-07-29 11:00:01,301:DEBUG:exec [Loyal_700].[dbo].[Tp_exportReportMayor] ?, ?
+2024-07-29 11:00:01,301:DEBUG:(700, 202012)
+2024-07-29 11:00:01,363:DEBUG:exec [Loyal_700].[dbo].[Tp_exportReportMayor] ?, ?
+2024-07-29 11:00:01,363:DEBUG:(700, 202101)
+2024-07-29 11:00:01,426:DEBUG:exec [Loyal_700].[dbo].[Tp_exportReportMayor] ?, ?
+2024-07-29 11:00:01,426:DEBUG:(700, 202103)
+2024-07-29 11:00:01,472:DEBUG:exec [Loyal_700].[dbo].[Tp_exportReportMayor] ?, ?
+2024-07-29 11:00:01,472:DEBUG:(700, 202105)
+2024-07-29 11:00:01,535:DEBUG:exec [Loyal_700].[dbo].[Tp_exportReportMayor] ?, ?
+2024-07-29 11:00:01,535:DEBUG:(700, 202106)
+2024-07-29 11:00:01,597:DEBUG:exec [Loyal_800].[dbo].[Tp_exportReportMayor] ?, ?
+2024-07-29 11:00:01,597:DEBUG:(800, 202107)
+2024-07-29 11:00:01,613:DEBUG:Detail Commit C:\cron\sync\rCommit.bat - 0
+2024-07-29 11:00:01,613:DEBUG:(700, 202010, '0x90fad32de29f0a221f8dd317e6588a01', '700202010317e658')
+2024-07-29 11:00:01,613:DEBUG:exec [Loyal].[dbo].[Tp_ExportDetails_To_Mayor] ?, ?
+2024-07-29 11:00:01,613:DEBUG:(700, 202010)
+2024-07-29 11:00:01,629:DEBUG:sync\repo\700202010317e658.csv
+2024-07-29 11:00:01,722:DEBUG:exec [Loyal].[dbo].[Tp_UpdateCronExport_Details] ?, ?
+2024-07-29 11:00:01,722:DEBUG:(700, 202010)
+2024-07-29 11:00:01,832:DEBUG:Detail Add C:\cron\sync\rAdd.bat - 0
+2024-07-29 11:00:01,847:DEBUG:exec [Loyal_800].[dbo].[Tp_exportReportMayor] ?, ?
+2024-07-29 11:00:01,847:DEBUG:(800, 202108)
