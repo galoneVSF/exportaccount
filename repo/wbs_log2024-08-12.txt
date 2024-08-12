@@ -123,3 +123,31 @@
 2024-08-12 11:00:01,961:DEBUG:Detail Add C:\cron\sync\rAdd.bat - 0
 2024-08-12 11:00:01,992:DEBUG:exec [Loyal_800].[dbo].[Tp_exportReportMayor] ?, ?
 2024-08-12 11:00:01,992:DEBUG:(800, 202112)
+2024-08-12 11:00:02,039:DEBUG:exec [Loyal_800].[dbo].[Tp_exportReportMayor] ?, ?
+2024-08-12 11:00:02,039:DEBUG:(800, 202201)
+2024-08-12 11:00:02,039:DEBUG:Detail Commit C:\cron\sync\rCommit.bat - 0
+2024-08-12 11:00:02,039:DEBUG:(700, 202105, '0x981c97d1b3475d2b3c3ee2d2e86a5398', '7002021052d2e86a')
+2024-08-12 11:00:02,039:DEBUG:exec [Loyal].[dbo].[Tp_ExportDetails_To_Mayor] ?, ?
+2024-08-12 11:00:02,039:DEBUG:(700, 202105)
+2024-08-12 11:00:02,101:DEBUG:exec [Loyal_800].[dbo].[Tp_exportReportMayor] ?, ?
+2024-08-12 11:00:02,101:DEBUG:(800, 202202)
+2024-08-12 11:00:02,148:DEBUG:exec [Loyal_800].[dbo].[Tp_exportReportMayor] ?, ?
+2024-08-12 11:00:02,148:DEBUG:(800, 202203)
+2024-08-12 11:00:02,148:DEBUG:sync\repo\7002021052d2e86a.csv
+2024-08-12 11:00:02,164:DEBUG:exec [Loyal].[dbo].[Tp_UpdateCronExport_Details] ?, ?
+2024-08-12 11:00:02,164:DEBUG:(700, 202105)
+2024-08-12 11:00:02,195:DEBUG:exec [Loyal_800].[dbo].[Tp_exportReportMayor] ?, ?
+2024-08-12 11:00:02,195:DEBUG:(800, 202204)
+2024-08-12 11:00:02,226:DEBUG:Detail Add C:\cron\sync\rAdd.bat - 0
+2024-08-12 11:00:02,258:DEBUG:exec [Loyal_800].[dbo].[Tp_exportReportMayor] ?, ?
+2024-08-12 11:00:02,258:DEBUG:(800, 202205)
+2024-08-12 11:00:02,304:DEBUG:Detail Commit C:\cron\sync\rCommit.bat - 0
+2024-08-12 11:00:02,304:DEBUG:(700, 202106, '0xb148760d418ab1c7a691cd248820b11e', '700202106d248820')
+2024-08-12 11:00:02,304:DEBUG:exec [Loyal].[dbo].[Tp_ExportDetails_To_Mayor] ?, ?
+2024-08-12 11:00:02,304:DEBUG:(700, 202106)
+2024-08-12 11:00:02,320:DEBUG:exec [Loyal_800].[dbo].[Tp_exportReportMayor] ?, ?
+2024-08-12 11:00:02,320:DEBUG:(800, 202206)
+2024-08-12 11:00:02,367:DEBUG:EndCronBuild
+2024-08-12 11:00:02,367:DEBUG:**********
+2024-08-12 11:00:02,367:DEBUG:END: {'dsn': 'DSN=SQLCRON;UID=crn;PWD=crn', 'debug': 1, 'zip': 0, 'git': 1, 'path': 'C:\\cron\\sync\\'}
+2024-08-12 11:00:02,367:DEBUG:____
