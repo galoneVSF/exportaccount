@@ -145,3 +145,17 @@
 2024-09-09 10:00:03,593:DEBUG:**********
 2024-09-09 10:00:03,593:DEBUG:END: {'dsn': 'DSN=SQLCRON;UID=crn;PWD=crn', 'debug': 1, 'zip': 0, 'git': 1, 'path': 'C:\\cron\\sync\\'}
 2024-09-09 10:00:03,593:DEBUG:____
+2024-09-09 11:00:00,887:DEBUG:__1.1__
+2024-09-09 11:00:00,887:DEBUG:INI: {'dsn': 'DSN=SQLCRON;UID=crn;PWD=crn', 'debug': 1, 'zip': 0, 'git': 1, 'path': 'C:\\cron\\sync\\'}
+2024-09-09 11:00:00,887:DEBUG:********************
+2024-09-09 11:00:00,887:DEBUG:BeginCronExport 1.1
+2024-09-09 11:00:00,887:DEBUG:C:\cron\sync\rAdd.bat
+2024-09-09 11:00:00,902:DEBUG:C:\cron\sync\rCommit.bat
+2024-09-09 11:00:00,902:DEBUG:C:\cron\sync\run.bat
+2024-09-09 11:00:00,918:DEBUG:exec [Loyal].[dbo].[Tp_GetCronExport]
+2024-09-09 11:00:00,918:DEBUG:(700, 202008, '0xf7532c1a80d041b067f86186ffe83ab1', '700202008186ffe8')
+2024-09-09 11:00:00,918:DEBUG:exec [Loyal].[dbo].[Tp_ExportDetails_To_Mayor] ?, ?
+2024-09-09 11:00:00,918:DEBUG:(700, 202008)
+2024-09-09 11:00:00,949:DEBUG:sync\repo\700202008186ffe8.csv
+2024-09-09 11:00:00,965:DEBUG:exec [Loyal].[dbo].[Tp_UpdateCronExport_Details] ?, ?
+2024-09-09 11:00:00,965:DEBUG:(700, 202008)
