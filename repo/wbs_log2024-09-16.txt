@@ -287,3 +287,11 @@
 2024-09-16 11:00:05,404:DEBUG:exec [Loyal].[dbo].[Tp_UpdateCronExport_Details] ?, ?
 2024-09-16 11:00:05,404:DEBUG:(800, 202110)
 2024-09-16 11:00:05,466:DEBUG:Detail Add C:\cron\sync\rAdd.bat - 0
+2024-09-16 11:00:05,544:DEBUG:Detail Commit C:\cron\sync\rCommit.bat - 0
+2024-09-16 11:00:05,544:DEBUG:(800, 202111, '0xadb162a8b75acac5593249b02c1a1531', '8002021119b02c1a')
+2024-09-16 11:00:05,544:DEBUG:exec [Loyal].[dbo].[Tp_ExportDetails_To_Mayor] ?, ?
+2024-09-16 11:00:05,544:DEBUG:(800, 202111)
+2024-09-16 11:00:05,576:DEBUG:sync\repo\8002021119b02c1a.csv
+2024-09-16 11:00:05,581:DEBUG:exec [Loyal].[dbo].[Tp_UpdateCronExport_Details] ?, ?
+2024-09-16 11:00:05,581:DEBUG:(800, 202111)
+2024-09-16 11:00:05,646:DEBUG:Detail Add C:\cron\sync\rAdd.bat - 0
