@@ -254,3 +254,20 @@
 2024-10-28 11:00:03,011:DEBUG:(800, 202108)
 2024-10-28 11:00:03,042:DEBUG:exec [Loyal_800].[dbo].[Tp_exportReportMayor] ?, ?
 2024-10-28 11:00:03,042:DEBUG:(800, 202204)
+2024-10-28 11:00:03,073:DEBUG:Detail Add C:\cron\sync\rAdd.bat - 0
+2024-10-28 11:00:03,105:DEBUG:exec [Loyal_800].[dbo].[Tp_exportReportMayor] ?, ?
+2024-10-28 11:00:03,105:DEBUG:(800, 202205)
+2024-10-28 11:00:03,136:DEBUG:Detail Commit C:\cron\sync\rCommit.bat - 0
+2024-10-28 11:00:03,136:DEBUG:(800, 202109, '0x5d629953f109ed10d8e1c117dac4656c', '800202109117dac4')
+2024-10-28 11:00:03,136:DEBUG:exec [Loyal].[dbo].[Tp_ExportDetails_To_Mayor] ?, ?
+2024-10-28 11:00:03,136:DEBUG:(800, 202109)
+2024-10-28 11:00:03,151:DEBUG:exec [Loyal_800].[dbo].[Tp_exportReportMayor] ?, ?
+2024-10-28 11:00:03,151:DEBUG:(800, 202206)
+2024-10-28 11:00:03,167:DEBUG:sync\repo\800202109117dac4.csv
+2024-10-28 11:00:03,167:DEBUG:exec [Loyal].[dbo].[Tp_UpdateCronExport_Details] ?, ?
+2024-10-28 11:00:03,167:DEBUG:(800, 202109)
+2024-10-28 11:00:03,214:DEBUG:EndCronBuild
+2024-10-28 11:00:03,214:DEBUG:**********
+2024-10-28 11:00:03,214:DEBUG:END: {'dsn': 'DSN=SQLCRON;UID=crn;PWD=crn', 'debug': 1, 'zip': 0, 'git': 1, 'path': 'C:\\cron\\sync\\'}
+2024-10-28 11:00:03,214:DEBUG:____
+2024-10-28 11:00:03,245:DEBUG:Detail Add C:\cron\sync\rAdd.bat - 0
