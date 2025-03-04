@@ -50,3 +50,10 @@
 2025-03-04 11:00:03,249:DEBUG:**********
 2025-03-04 11:00:03,249:DEBUG:END: {'dsn': 'DSN=SQLCRON;UID=crn;PWD=crn', 'debug': 1, 'zip': 0, 'git': 1, 'path': 'C:\\cron\\sync\\'}
 2025-03-04 11:00:03,249:DEBUG:____
+2025-03-04 11:00:03,389:DEBUG:Add All C:\cron\sync\rAdd.bat - 0
+2025-03-04 11:00:03,561:DEBUG:Commit All C:\cron\sync\rCommit.bat - 0
+2025-03-04 11:00:06,014:DEBUG:Push C:\cron\sync\run.bat - 0
+2025-03-04 11:00:06,014:DEBUG:EndCronExport
+2025-03-04 11:00:06,014:DEBUG:********************
+2025-03-04 11:00:06,014:DEBUG:END: {'dsn': 'DSN=SQLCRON;UID=crn;PWD=crn', 'debug': 1, 'zip': 0, 'git': 1, 'path': 'C:\\cron\\sync\\'}
+2025-03-04 11:00:06,014:DEBUG:____
