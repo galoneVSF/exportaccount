@@ -202,3 +202,32 @@
 2025-05-12 11:00:02,926:DEBUG:exec [Loyal_800].[dbo].[Tp_exportReportMayor] ?, ?
 2025-05-12 11:00:02,926:DEBUG:(800, 202201)
 2025-05-12 11:00:02,941:DEBUG:Detail Add C:\cron\sync\rAdd.bat - 0
+2025-05-12 11:00:03,066:DEBUG:Detail Commit C:\cron\sync\rCommit.bat - 0
+2025-05-12 11:00:03,066:DEBUG:(700, 202012, '0x29186b7a79aafdadc676a7b1fa83d165', '7002020127b1fa83')
+2025-05-12 11:00:03,066:DEBUG:exec [Loyal].[dbo].[Tp_ExportDetails_To_Mayor] ?, ?
+2025-05-12 11:00:03,066:DEBUG:(700, 202012)
+2025-05-12 11:00:03,129:DEBUG:exec [Loyal_800].[dbo].[Tp_exportReportMayor] ?, ?
+2025-05-12 11:00:03,129:DEBUG:(800, 202202)
+2025-05-12 11:00:03,160:DEBUG:sync\repo\7002020127b1fa83.csv
+2025-05-12 11:00:03,176:DEBUG:exec [Loyal].[dbo].[Tp_UpdateCronExport_Details] ?, ?
+2025-05-12 11:00:03,176:DEBUG:(700, 202012)
+2025-05-12 11:00:03,176:DEBUG:exec [Loyal_800].[dbo].[Tp_exportReportMayor] ?, ?
+2025-05-12 11:00:03,176:DEBUG:(800, 202203)
+2025-05-12 11:00:03,238:DEBUG:Detail Add C:\cron\sync\rAdd.bat - 0
+2025-05-12 11:00:03,254:DEBUG:exec [Loyal_800].[dbo].[Tp_exportReportMayor] ?, ?
+2025-05-12 11:00:03,254:DEBUG:(800, 202204)
+2025-05-12 11:00:03,301:DEBUG:exec [Loyal_800].[dbo].[Tp_exportReportMayor] ?, ?
+2025-05-12 11:00:03,301:DEBUG:(800, 202205)
+2025-05-12 11:00:03,332:DEBUG:Detail Commit C:\cron\sync\rCommit.bat - 0
+2025-05-12 11:00:03,332:DEBUG:(700, 202101, '0x69ee8d9de3a52d254953ebd95e3b2de5', '700202101bd95e3b')
+2025-05-12 11:00:03,332:DEBUG:exec [Loyal].[dbo].[Tp_ExportDetails_To_Mayor] ?, ?
+2025-05-12 11:00:03,332:DEBUG:(700, 202101)
+2025-05-12 11:00:03,363:DEBUG:exec [Loyal_800].[dbo].[Tp_exportReportMayor] ?, ?
+2025-05-12 11:00:03,363:DEBUG:(800, 202206)
+2025-05-12 11:00:03,394:DEBUG:sync\repo\700202101bd95e3b.csv
+2025-05-12 11:00:03,394:DEBUG:exec [Loyal].[dbo].[Tp_UpdateCronExport_Details] ?, ?
+2025-05-12 11:00:03,394:DEBUG:(700, 202101)
+2025-05-12 11:00:03,426:DEBUG:EndCronBuild
+2025-05-12 11:00:03,426:DEBUG:**********
+2025-05-12 11:00:03,426:DEBUG:END: {'dsn': 'DSN=SQLCRON;UID=crn;PWD=crn', 'debug': 1, 'zip': 0, 'git': 1, 'path': 'C:\\cron\\sync\\'}
+2025-05-12 11:00:03,426:DEBUG:____
