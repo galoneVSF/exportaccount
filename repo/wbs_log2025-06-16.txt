@@ -271,3 +271,6 @@
 2025-06-16 11:00:02,961:DEBUG:**********
 2025-06-16 11:00:02,961:DEBUG:END: {'dsn': 'DSN=SQLCRON;UID=crn;PWD=crn', 'debug': 1, 'zip': 0, 'git': 1, 'path': 'C:\\cron\\sync\\'}
 2025-06-16 11:00:02,961:DEBUG:____
+2025-06-16 11:00:02,976:DEBUG:sync\repo\800202109117dac4.csv
+2025-06-16 11:00:02,992:DEBUG:exec [Loyal].[dbo].[Tp_UpdateCronExport_Details] ?, ?
+2025-06-16 11:00:02,992:DEBUG:(800, 202109)
