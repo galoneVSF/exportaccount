@@ -268,3 +268,4 @@
 2025-06-30 11:00:02,876:DEBUG:**********
 2025-06-30 11:00:02,876:DEBUG:END: {'dsn': 'DSN=SQLCRON;UID=crn;PWD=crn', 'debug': 1, 'zip': 0, 'git': 1, 'path': 'C:\\cron\\sync\\'}
 2025-06-30 11:00:02,876:DEBUG:____
+2025-06-30 11:00:02,908:DEBUG:Detail Add C:\cron\sync\rAdd.bat - 0
