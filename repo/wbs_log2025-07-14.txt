@@ -185,3 +185,16 @@
 2025-07-14 11:00:01,685:DEBUG:exec [Loyal].[dbo].[STEP_2_ExtraerNovedadesConDiferencias]
 2025-07-14 11:00:01,685:DEBUG:exec [Loyal_700].[dbo].[Tp_exportReportMayor] ?, ?
 2025-07-14 11:00:01,685:DEBUG:(700, 202101)
+2025-07-14 11:00:01,826:DEBUG:Detail Commit C:\cron\sync\rCommit.bat - 0
+2025-07-14 11:00:01,826:DEBUG:(700, 202101, '0x69ee8d9de3a52d254953ebd95e3b2de5', '700202101bd95e3b')
+2025-07-14 11:00:01,826:DEBUG:exec [Loyal].[dbo].[Tp_ExportDetails_To_Mayor] ?, ?
+2025-07-14 11:00:01,826:DEBUG:(700, 202101)
+2025-07-14 11:00:01,904:DEBUG:exec [Loyal_700].[dbo].[Tp_exportReportMayor] ?, ?
+2025-07-14 11:00:01,904:DEBUG:(700, 202103)
+2025-07-14 11:00:01,950:DEBUG:exec [Loyal_700].[dbo].[Tp_exportReportMayor] ?, ?
+2025-07-14 11:00:01,950:DEBUG:(700, 202105)
+2025-07-14 11:00:01,950:DEBUG:sync\repo\700202101bd95e3b.csv
+2025-07-14 11:00:01,966:DEBUG:exec [Loyal].[dbo].[Tp_UpdateCronExport_Details] ?, ?
+2025-07-14 11:00:01,966:DEBUG:(700, 202101)
+2025-07-14 11:00:02,013:DEBUG:exec [Loyal_700].[dbo].[Tp_exportReportMayor] ?, ?
+2025-07-14 11:00:02,013:DEBUG:(700, 202106)
