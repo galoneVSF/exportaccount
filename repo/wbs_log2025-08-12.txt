@@ -1,0 +1,31 @@
+2025-08-12 10:00:04,993:DEBUG:__1.1__
+2025-08-12 10:00:04,993:DEBUG:INI: {'dsn': 'DSN=SQLCRON;UID=crn;PWD=crn', 'debug': 1, 'zip': 0, 'git': 1, 'path': 'C:\\cron\\sync\\'}
+2025-08-12 10:00:04,993:DEBUG:**********
+2025-08-12 10:00:04,993:DEBUG:BeginCronBuild 1.2
+2025-08-12 10:00:04,993:DEBUG:INI: {'dsn': 'DSN=SQLCRON;UID=crn;PWD=crn', 'debug': 1, 'zip': 0, 'git': 1, 'path': 'C:\\cron\\sync\\'}
+2025-08-12 10:00:05,149:DEBUG:exec [Loyal].[dbo].[STEP_1_SearchNovedades]
+2025-08-12 10:00:05,181:DEBUG:exec [Loyal].[dbo].[STEP_2_ExtraerNovedadesConDiferencias]
+2025-08-12 10:00:05,181:DEBUG:EndCronBuild
+2025-08-12 10:00:05,181:DEBUG:**********
+2025-08-12 10:00:05,181:DEBUG:END: {'dsn': 'DSN=SQLCRON;UID=crn;PWD=crn', 'debug': 1, 'zip': 0, 'git': 1, 'path': 'C:\\cron\\sync\\'}
+2025-08-12 10:00:05,181:DEBUG:____
+2025-08-12 11:00:03,123:DEBUG:__1.1__
+2025-08-12 11:00:03,123:DEBUG:INI: {'dsn': 'DSN=SQLCRON;UID=crn;PWD=crn', 'debug': 1, 'zip': 0, 'git': 1, 'path': 'C:\\cron\\sync\\'}
+2025-08-12 11:00:03,139:DEBUG:********************
+2025-08-12 11:00:03,139:DEBUG:BeginCronExport 1.1
+2025-08-12 11:00:03,139:DEBUG:C:\cron\sync\rAdd.bat
+2025-08-12 11:00:03,139:DEBUG:C:\cron\sync\rCommit.bat
+2025-08-12 11:00:03,139:DEBUG:C:\cron\sync\run.bat
+2025-08-12 11:00:03,139:DEBUG:__1.1__
+2025-08-12 11:00:03,139:DEBUG:INI: {'dsn': 'DSN=SQLCRON;UID=crn;PWD=crn', 'debug': 1, 'zip': 0, 'git': 1, 'path': 'C:\\cron\\sync\\'}
+2025-08-12 11:00:03,139:DEBUG:**********
+2025-08-12 11:00:03,139:DEBUG:BeginCronBuild 1.2
+2025-08-12 11:00:03,139:DEBUG:INI: {'dsn': 'DSN=SQLCRON;UID=crn;PWD=crn', 'debug': 1, 'zip': 0, 'git': 1, 'path': 'C:\\cron\\sync\\'}
+2025-08-12 11:00:03,361:DEBUG:exec [Loyal].[dbo].[Tp_GetCronExport]
+des]
+2025-08-12 11:00:03,385:DEBUG:exec [Loyal].[dbo].[Tp_JSONCronExport]
+2025-08-12 11:00:03,403:DEBUG:exec [Loyal].[dbo].[STEP_2_ExtraerNovedadesConDiferencias]
+2025-08-12 11:00:03,403:DEBUG:EndCronBuild
+2025-08-12 11:00:03,403:DEBUG:**********
+2025-08-12 11:00:03,403:DEBUG:END: {'dsn': 'DSN=SQLCRON;UID=crn;PWD=crn', 'debug': 1, 'zip': 0, 'git': 1, 'path': 'C:\\cron\\sync\\'}
+2025-08-12 11:00:03,403:DEBUG:____
