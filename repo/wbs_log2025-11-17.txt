@@ -61,3 +61,32 @@
 2025-11-17 11:00:00,903:DEBUG:sync\repo\700202008186ffe8.csv
 2025-11-17 11:00:00,918:DEBUG:exec [Loyal].[dbo].[Tp_UpdateCronExport_Details] ?, ?
 2025-11-17 11:00:00,918:DEBUG:(700, 202008)
+2025-11-17 11:00:01,059:DEBUG:Detail Add C:\cron\sync\rAdd.bat - 0
+2025-11-17 11:00:01,075:DEBUG:__1.1__
+2025-11-17 11:00:01,075:DEBUG:INI: {'dsn': 'DSN=SQLCRON;UID=crn;PWD=crn', 'debug': 1, 'zip': 0, 'git': 1, 'path': 'C:\\cron\\sync\\'}
+2025-11-17 11:00:01,075:DEBUG:**********
+2025-11-17 11:00:01,075:DEBUG:BeginCronBuild 1.2
+2025-11-17 11:00:01,075:DEBUG:INI: {'dsn': 'DSN=SQLCRON;UID=crn;PWD=crn', 'debug': 1, 'zip': 0, 'git': 1, 'path': 'C:\\cron\\sync\\'}
+2025-11-17 11:00:01,090:DEBUG:exec [Loyal].[dbo].[STEP_1_SearchNovedades]
+2025-11-17 11:00:01,090:DEBUG:exec [Loyal].[dbo].[STEP_2_ExtraerNovedadesConDiferencias]
+2025-11-17 11:00:01,090:DEBUG:exec [Loyal_700].[dbo].[Tp_exportReportMayor] ?, ?
+2025-11-17 11:00:01,090:DEBUG:(700, 202010)
+2025-11-17 11:00:01,325:DEBUG:exec [Loyal_700].[dbo].[Tp_exportReportMayor] ?, ?
+2025-11-17 11:00:01,325:DEBUG:(700, 202012)
+2025-11-17 11:00:01,387:DEBUG:exec [Loyal_700].[dbo].[Tp_exportReportMayor] ?, ?
+2025-11-17 11:00:01,387:DEBUG:(700, 202101)
+2025-11-17 11:00:01,434:DEBUG:exec [Loyal_700].[dbo].[Tp_exportReportMayor] ?, ?
+2025-11-17 11:00:01,434:DEBUG:(700, 202103)
+2025-11-17 11:00:01,496:DEBUG:exec [Loyal_700].[dbo].[Tp_exportReportMayor] ?, ?
+2025-11-17 11:00:01,496:DEBUG:(700, 202105)
+2025-11-17 11:00:01,543:DEBUG:exec [Loyal_700].[dbo].[Tp_exportReportMayor] ?, ?
+2025-11-17 11:00:01,543:DEBUG:(700, 202106)
+2025-11-17 11:00:01,606:DEBUG:Detail Commit C:\cron\sync\rCommit.bat - 0
+2025-11-17 11:00:01,606:DEBUG:(700, 202010, '0x90fad32de29f0a221f8dd317e6588a01', '700202010317e658')
+2025-11-17 11:00:01,606:DEBUG:exec [Loyal].[dbo].[Tp_ExportDetails_To_Mayor] ?, ?
+2025-11-17 11:00:01,606:DEBUG:(700, 202010)
+2025-11-17 11:00:01,621:DEBUG:exec [Loyal_800].[dbo].[Tp_exportReportMayor] ?, ?
+2025-11-17 11:00:01,621:DEBUG:(800, 202107)
+2025-11-17 11:00:01,621:DEBUG:sync\repo\700202010317e658.csv
+2025-11-17 11:00:01,637:DEBUG:exec [Loyal].[dbo].[Tp_UpdateCronExport_Details] ?, ?
+2025-11-17 11:00:01,637:DEBUG:(700, 202010)
